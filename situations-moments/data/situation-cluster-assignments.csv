@@ -1,0 +1,465 @@
+call_id,situation,cluster_id,situation_name
+call_001,The prospect expressed uncertainty and lack of interest by saying they don't know and indicating they are busy cooking with no time to talk.,3,Prospect unavailable or uncertain about timing
+call_001,"The prospect stated they already use DoorDash, Grubhub, and Uber Eats and expressed that they don't think they need anything else.",4,Already satisfied or not ready for new online ordering solutions
+call_002,"The prospect clarified they would use a desktop without a camera, which could signal a potential technical limitation or hesitation about participation.",1,Low prospect engagement or interest
+call_002,"The prospect indicated flexibility between two possible demo times (10:30 or 2:00), creating a scheduling decision point that could affect whether the demo gets confirmed.",8,Scheduling or demo confirmation challenges
+call_003,El prospecto informa que la persona encargada no se encuentra y no sabe a qué hora llegará.,3,Prospect unavailable or uncertain about timing
+call_003,El prospecto muestra confusión sobre el nombre de la empresa ('¿la compañía que perdón?').,7,Prospect confusion or lack of awareness
+call_004,"The prospect indicated they had just woken up and were not in a good position to talk, showing low availability and potential disinterest at that moment.",3,Prospect unavailable or uncertain about timing
+call_004,"The prospect hesitated and took time to think about when would be a better time for a follow-up call, showing uncertainty about scheduling.",3,Prospect unavailable or uncertain about timing
+call_005,"The prospect showed limited English comprehension and communication difficulty, responding with short or unclear phrases such as 'Allow to talk.'",1,Low prospect engagement or interest
+call_005,"The prospect indicated unfamiliarity with Google Meet, saying they had never used it before.",1,Low prospect engagement or interest
+call_005,"At the end, the prospect did not respond when the rep asked about having a computer or tablet, suggesting possible disengagement or technical difficulty.",1,Low prospect engagement or interest
+call_005,"The prospect expressed confusion about what the rep meant by 'get you scheduled in,' indicating uncertainty about the purpose of the call.",5,Prospect confusion about caller identity and purpose
+call_006,The prospect's phone system indicated they could not take the call and directed the rep to leave a voicemail.,3,Prospect unavailable or uncertain about timing
+call_007,The prospect mentioned they had not yet spoken with the owner and needed to confirm with them before proceeding with the scheduled meeting.,3,Prospect unavailable or uncertain about timing
+call_007,The prospect indicated they would need to save the rep’s number before further communication.,3,Prospect unavailable or uncertain about timing
+call_007,The prospect expressed reluctance to use their cell phone for business purposes when the rep asked for a contact number.,5,Prospect confusion about caller identity and purpose
+call_008,"The prospect was unavailable for the scheduled meeting, and the rep reached someone else at the business who was unsure of the prospect’s location or availability.",3,Prospect unavailable or uncertain about timing
+call_008,The person answering the call expressed uncertainty about the rep’s company and asked if they were calling from Owner.com.,7,Prospect confusion or lack of awareness
+call_009,"The prospect expressed confusion about who the rep was and whether the call was a sales pitch, asking if the rep was trying to sell something.",5,Prospect confusion about caller identity and purpose
+call_009,The prospect offered to text the rep’s contact information to the owner and said the owner would contact the rep directly.,5,Prospect confusion about caller identity and purpose
+call_009,The prospect did not recognize the name Owner.com or the request and seemed uncertain who within the restaurant made it.,7,Prospect confusion or lack of awareness
+call_009,"The prospect identified the actual owner, Fahad, and indicated there were multiple owners handling different responsibilities.",7,Prospect confusion or lack of awareness
+call_010,"The prospect stated they were working long hours and could not meet for at least three weeks, suggesting a follow-up call in two weeks instead.",3,Prospect unavailable or uncertain about timing
+call_010,The prospect clarified they had a partner and both decided to put the project on hold for one to two weeks due to lack of time.,6,Prospect not ready to change systems
+call_010,"The prospect explained they had just opened another location, were extremely busy, and had not been able to respond, acknowledging they likely lost the promotion.",9,Speaking with non‑owner or unavailable decision‑maker
+call_011,"After the rep mentioned promotions and discounts, the prospect responded politely but without re-engaging or showing renewed interest.",1,Low prospect engagement or interest
+call_011,The prospect explained they were still dealing with a personal issue and were not ready to move forward or book a demo at the moment.,8,Scheduling or demo confirmation challenges
+call_012,The prospect stated they were at the gym and requested that the rep email them instead of continuing the call.,3,Prospect unavailable or uncertain about timing
+call_012,"The prospect explained they had just started using DoorDash and were still setting up their online presence, indicating they were early in their digital ordering journey.",4,Already satisfied or not ready for new online ordering solutions
+call_013,The prospect showed hesitation or uncertainty about joining the video call immediately.,1,Low prospect engagement or interest
+call_013,"The prospect seemed unaware or unprepared for the meeting time change from tomorrow to 2:45 today, creating confusion about availability.",3,Prospect unavailable or uncertain about timing
+call_013,"The prospect indicated that they were not the owner but the general manager, raising uncertainty about whether they were the correct decision-maker for the demo.",9,Speaking with non‑owner or unavailable decision‑maker
+call_014,The prospect on the line was not the intended contact (Eunice Thorek) and seemed unsure about the request for information.,5,Prospect confusion about caller identity and purpose
+call_014,The person answering could not confirm why Eunice submitted the request or provide further details.,5,Prospect confusion about caller identity and purpose
+call_014,The call ended without reaching the decision-maker or confirming a demo time.,8,Scheduling or demo confirmation challenges
+call_015,"The prospect expressed hesitation about making changes to their current setup, implying they might not want to invest time or effort into switching systems.",6,Prospect not ready to change systems
+call_015,The prospect indicated a preference to delay any decision and think about it for a couple of months.,6,Prospect not ready to change systems
+call_016,The prospect explained that their kitchen is already at full capacity and cannot handle additional online orders due to limited space and workload.,0,Limited capacity or no interest in online ordering
+call_016,The prospect reiterated that they had previously considered online ordering but decided against it because they can barely keep up with current demand and have a small kitchen.,0,Limited capacity or no interest in online ordering
+call_017,The person who answered the call stated that the intended prospect was not present and seemed unsure who the rep was referring to.,5,Prospect confusion about caller identity and purpose
+call_017,The person on the call expressed confusion about what company the rep represented and the purpose of the call.,5,Prospect confusion about caller identity and purpose
+call_017,The person indicated they had no idea about the report and attempted to end the call.,5,Prospect confusion about caller identity and purpose
+call_018,"The prospect expressed disinterest, saying they did not need the service and that they do not rely on DoorDash or similar platforms.",4,Already satisfied or not ready for new online ordering solutions
+call_018,"The prospect directly asked what the rep was selling, signaling impatience and a desire to quickly qualify the call.",5,Prospect confusion about caller identity and purpose
+call_018,The prospect stated they had already changed their POS system and believed they were already covered by what the rep was offering.,6,Prospect not ready to change systems
+call_019,"The prospect clarified that they do not offer online ordering, only catering, and reiterated that their sister handles all technical aspects.",0,Limited capacity or no interest in online ordering
+call_019,"The prospect immediately expressed disinterest, stating that their sister is an IT engineer who manages their website and online presence.",1,Low prospect engagement or interest
+call_020,"The prospect expressed disinterest after hearing the rep’s brief explanation of the service, stating they were 'not super interested.'",1,Low prospect engagement or interest
+call_020,"The prospect clarified that their website and online presence are controlled by the corporate franchise, limiting their ability to make independent marketing or website decisions.",9,Speaking with non‑owner or unavailable decision‑maker
+call_021,The prospect indicates that the intended contact may not be available the next day either.,3,Prospect unavailable or uncertain about timing
+call_021,The prospect informs the rep that the intended contact (the person who booked the demo) is not available.,8,Scheduling or demo confirmation challenges
+call_021,"The prospect asks what the meeting was for, showing uncertainty about the purpose of the scheduled demo.",8,Scheduling or demo confirmation challenges
+call_022,"The prospect provided a website contact (callsoulco.com) instead of a direct person, indicating limited engagement and a potential barrier to scheduling a demo.",8,Scheduling or demo confirmation challenges
+call_022,"The prospect clarified that they are not the owner of the restaurant, creating uncertainty about whether the rep was speaking with the decision-maker.",9,Speaking with non‑owner or unavailable decision‑maker
+call_023,"The prospect did not engage or show interest early in the call, providing minimal or no responses when the rep attempted to confirm ownership and relevance.",1,Low prospect engagement or interest
+call_023,The prospect appeared disinterested or unresponsive after the rep introduced the company and value proposition.,1,Low prospect engagement or interest
+call_024,The prospect stated they were not the right person to discuss online ordering or commissions and provided another phone number to contact the office.,5,Prospect confusion about caller identity and purpose
+call_024,"The prospect mentioned that the business already uses a system and is likely satisfied with it, implying no current need for the rep’s solution.",6,Prospect not ready to change systems
+call_025,The prospect expressed confusion and possible disinterest when the rep asked if increasing online orders or business growth was a priority.,0,Limited capacity or no interest in online ordering
+call_025,"The prospect gave short or unclear responses when asked about existing online ordering and capacity to take more orders, indicating hesitation or lack of engagement.",0,Limited capacity or no interest in online ordering
+call_025,"At the end of the call, the prospect did not express interest or agreement to continue, signaling disengagement.",1,Low prospect engagement or interest
+call_026,"The prospect informed the rep that the main contact, Dr. Cusick, had just left and would not be available to continue the conversation.",3,Prospect unavailable or uncertain about timing
+call_027,The prospect declined to provide her husband’s contact information and reiterated that she could not help further.,1,Low prospect engagement or interest
+call_027,"The prospect stated it was not a good time to talk and redirected the rep to contact her husband, who manages business matters.",3,Prospect unavailable or uncertain about timing
+call_027,The prospect expressed confusion about who was calling and did not recognize the rep or the purpose of the call.,5,Prospect confusion about caller identity and purpose
+call_028,The prospect stated they had already spoken with someone from the same company recently and were not interested.,1,Low prospect engagement or interest
+call_028,The prospect revealed they are already using Lunchbox for online ordering and are satisfied with its performance.,4,Already satisfied or not ready for new online ordering solutions
+call_028,The prospect mentioned poor call quality and difficulty hearing the rep early in the conversation.,5,Prospect confusion about caller identity and purpose
+call_028,The prospect emphasized that everything is working well with their current system and there are no pressing issues.,6,Prospect not ready to change systems
+call_029,The prospect indicated that it was not a good time to talk because they were at doctor's appointments and asked the rep to call back tomorrow.,3,Prospect unavailable or uncertain about timing
+call_029,The prospect provided a different phone number and clarified that the rep should contact the restaurant directly rather than continuing the current conversation.,5,Prospect confusion about caller identity and purpose
+call_030,"The prospect said they were busy and requested a call back the next day, introducing a scheduling constraint that paused the conversation.",3,Prospect unavailable or uncertain about timing
+call_030,"The prospect expressed confusion and concern about being charged money and mentioned wanting a refund, indicating they thought the call was about billing rather than a demo.",5,Prospect confusion about caller identity and purpose
+call_030,"The prospect stated that their partner previously used Owner.com but they no longer want to change their current website provider, showing resistance to switching platforms.",7,Prospect confusion or lack of awareness
+call_031,"The prospect expressed confusion, saying they did not recall filling out any form and suggested their spouse might have done it, then asked the rep to call back tomorrow.",5,Prospect confusion about caller identity and purpose
+call_031,The prospect stated they were not interested and attempted to end the call immediately after learning the call was about Owner.com.,7,Prospect confusion or lack of awareness
+call_032,The prospect said they were busy and could not talk much because they were doing lunch service.,3,Prospect unavailable or uncertain about timing
+call_032,The prospect ended the call citing they were very busy and needed to get back to work.,3,Prospect unavailable or uncertain about timing
+call_032,"The prospect challenged the rep’s claim that their website had low traffic and poor visibility, saying the data was wrong.",5,Prospect confusion about caller identity and purpose
+call_032,"The prospect insisted they already use Owner.com and get about a thousand visits a month, implying they are satisfied with their current provider.",7,Prospect confusion or lack of awareness
+call_033,"The prospect indicated they did not handle online ordering and that their partner was responsible, suggesting the rep was speaking with the wrong decision-maker.",0,Limited capacity or no interest in online ordering
+call_033,"The prospect asked the rep to call back later, signaling a polite deflection and potential end to the current conversation.",3,Prospect unavailable or uncertain about timing
+call_034,The prospect expressed confusion about the purpose of the call and questioned what kind of meeting the rep was referring to.,5,Prospect confusion about caller identity and purpose
+call_034,"The prospect misunderstood the rep’s intent, thinking the rep wanted catering services.",5,Prospect confusion about caller identity and purpose
+call_034,The prospect revealed they were not the business owner and that the owner was not present.,9,Speaking with non‑owner or unavailable decision‑maker
+call_035,"The prospect repeatedly said they were okay and thanked the rep, signaling disinterest and a desire to end the conversation.",3,Prospect unavailable or uncertain about timing
+call_035,"The prospect indicated they had just started using Uber Eats recently, implying they were in an early stage of testing that channel and not ready to switch or add new systems.",4,Already satisfied or not ready for new online ordering solutions
+call_035,"The prospect expressed satisfaction with their current operations and stated they were good for now, suggesting no immediate need for change.",6,Prospect not ready to change systems
+call_036,The prospect said they were busy hosting a large group event and could not talk at the moment.,3,Prospect unavailable or uncertain about timing
+call_036,The prospect requested that the rep send an email with information and suggested possibly setting up a chat or meeting later.,3,Prospect unavailable or uncertain about timing
+call_036,The prospect clarified that the weekend would not work and proposed next week as a better time for follow-up.,3,Prospect unavailable or uncertain about timing
+call_037,"The prospect indicated that Slice did not make any big promises or offer much help, implying limited engagement or dissatisfaction but not outright frustration.",1,Low prospect engagement or interest
+call_037,"The prospect did not express any pain points or interest in changing from Slice, suggesting satisfaction or lack of motivation to explore alternatives.",1,Low prospect engagement or interest
+call_037,The prospect showed no familiarity with Owner.com or its online presence and mentioned staying away from social media.,7,Prospect confusion or lack of awareness
+call_038,The prospect indicated they do not currently have online ordering and implied it was intentional or not a fit for their business model.,0,Limited capacity or no interest in online ordering
+call_038,"The prospect directly declined interest in seeing research or implementing online ordering, saying 'No, no.'",0,Limited capacity or no interest in online ordering
+call_038,The prospect mentioned staffing issues as a reason for not pursuing online ordering at this time.,0,Limited capacity or no interest in online ordering
+call_039,"The prospect seems to have an issue that the rep cannot directly resolve, creating a potential stall in the conversation.",3,Prospect unavailable or uncertain about timing
+call_039,"The prospect appears confused about their website setup, as the rep notices that the restaurant’s Google Maps and website are not showing the correct Owner site.",7,Prospect confusion or lack of awareness
+call_040,The prospect states they do not want to grow online ordering and prefer to keep their traditional model that has worked for 40 years.,0,Limited capacity or no interest in online ordering
+call_040,"The prospect reveals they only take phone orders and do not use online ordering or delivery, indicating a potential lack of interest in digital solutions.",4,Already satisfied or not ready for new online ordering solutions
+call_040,"The prospect emphasizes satisfaction with their current operations and expresses a conservative approach, signaling strong resistance to change.",6,Prospect not ready to change systems
+call_040,The prospect firmly reiterates they are not interested in changing their setup and prefer to continue their current approach.,6,Prospect not ready to change systems
+call_041,"After expressing frustration, the prospect stated they would look up the company themselves and call back if interested, signaling a desire to end the call.",3,Prospect unavailable or uncertain about timing
+call_041,"The prospect expressed confusion and suspicion early in the call, asking 'What do you want from me?' and stating they didn't know who the rep was.",5,Prospect confusion about caller identity and purpose
+call_041,"The prospect accused the rep of blindsiding them and taking an inappropriate approach by referencing another Indian restaurant, perceiving it as manipulative.",9,Speaking with non‑owner or unavailable decision‑maker
+call_042,The prospect indicates that they have not received any help or follow-up from their assigned support contact since launching their website.,1,Low prospect engagement or interest
+call_042,"The prospect’s business performance with the platform has not ramped up as expected, suggesting dissatisfaction or unmet expectations.",1,Low prospect engagement or interest
+call_043,The prospect stated that someone from the same company had already called and that they were not interested right now.,3,Prospect unavailable or uncertain about timing
+call_043,The prospect explained that the reason for not being interested was a lack of budget due to a tough winter and mentioned possibly revisiting at the end of summer.,6,Prospect not ready to change systems
+call_044,The prospect reveals they already work with another company and states they are not interested in switching or learning more.,1,Low prospect engagement or interest
+call_044,"The prospect asks detailed questions about pricing, including whether there is a free month and what the monthly charge is.",2,Pricing questions and cost concerns
+call_044,"The prospect shows confusion about the service model, comparing it to DoorDash and asking if the company handles delivery or just pickup.",4,Already satisfied or not ready for new online ordering solutions
+call_044,The prospect expresses confusion about why the rep is calling and denies remembering any prior request to meet with the company.,5,Prospect confusion about caller identity and purpose
+call_045,The prospect interrupted the rep to say they were busy and could not talk at the moment.,3,Prospect unavailable or uncertain about timing
+call_045,The prospect specified they were available later in the afternoon after two.,3,Prospect unavailable or uncertain about timing
+call_046,"The prospect initially stated that the rep had the wrong number and questioned why they were being contacted about Ru Cafe, expressing confusion and suspicion about how their number was obtained.",5,Prospect confusion about caller identity and purpose
+call_046,"The prospect expressed concern about how the rep obtained their number, mentioning that it might be linked to a different restaurant and that their manager would not have shared it.",9,Speaking with non‑owner or unavailable decision‑maker
+call_046,"The prospect revealed they do own a restaurant but are in the middle of a personal move, requesting to be called next Tuesday to discuss further.",9,Speaking with non‑owner or unavailable decision‑maker
+call_047,"At the end, the prospect deferred final commitment, asking the rep to check with their team and follow up later.",3,Prospect unavailable or uncertain about timing
+call_047,"The prospect explained that their business operates as a traveling food truck, not a fixed-location restaurant, which limits their visibility on Google and complicates online presence.",4,Already satisfied or not ready for new online ordering solutions
+call_047,The prospect revealed they do not have a Google Business Profile because they move locations frequently and lack a fixed address.,4,Already satisfied or not ready for new online ordering solutions
+call_047,The prospect asked what steps would be needed to move forward if they pursued Owner’s help.,6,Prospect not ready to change systems
+call_047,"After hearing that Owner might not be a fit, the prospect mentioned plans to open more consistently in one town and expressed interest in improving their local presence.",9,Speaking with non‑owner or unavailable decision‑maker
+call_048,"The prospect did not acknowledge or engage when the rep referenced local restaurants and asked if they knew Marco Pizzeria, showing low familiarity or interest early in the call.",1,Low prospect engagement or interest
+call_048,"When asked if growing online sales was important, the prospect gave a noncommittal or dismissive response, signaling low motivation to continue.",1,Low prospect engagement or interest
+call_048,"The prospect gave minimal responses when asked about their online sales and DoorDash usage, indicating hesitation or lack of interest in discussing current operations.",4,Already satisfied or not ready for new online ordering solutions
+call_049,The prospect expressed that they had hoped to complete setup during the previous conversation but it didn’t happen because the prior rep was in a rush.,3,Prospect unavailable or uncertain about timing
+call_049,The prospect mentioned that the onboarding team had already signed off for the day and suggested scheduling the demo for tomorrow instead.,8,Scheduling or demo confirmation challenges
+call_050,"The prospect indicated that their phone works but is not ideal for viewing, suggesting possible technical or logistical hesitation about joining a demo on that device.",8,Scheduling or demo confirmation challenges
+call_050,The prospect showed uncertainty about the demo duration and time commitment.,8,Scheduling or demo confirmation challenges
+call_050,Potential technical barrier where the prospect might need to download the Google Meets app to access the demo link.,8,Scheduling or demo confirmation challenges
+call_051,The prospect expressed concern about being locked into a contract and wanted reassurance that they could leave if results were poor.,6,Prospect not ready to change systems
+call_051,"The prospect asked what the next steps would be if they decided to sign up, indicating readiness but needing clarity on process.",6,Prospect not ready to change systems
+call_051,"The prospect asked how long it would take to get everything set up, showing a need for timeline certainty before committing fully.",6,Prospect not ready to change systems
+call_051,"The prospect mentioned they had already applied for their own app, which could create confusion or duplication of effort.",6,Prospect not ready to change systems
+call_051,"The prospect indicated uncertainty about their current POS system, mentioning they were using Clover but considering a change.",6,Prospect not ready to change systems
+call_052,The prospect mentioned being busy at the moment and requested to schedule a call later in the day instead of continuing the conversation.,3,Prospect unavailable or uncertain about timing
+call_052,"When asked about doing the demo later that evening, the prospect declined, explaining they wanted their spouse to be present and suggested Thursday instead.",8,Scheduling or demo confirmation challenges
+call_053,"When the rep attempted to book a demo, the prospect expressed disinterest, indicating that growing online sales was not a current priority.",1,Low prospect engagement or interest
+call_053,"The prospect indicated that 95% of their orders already come through Toast, suggesting they are satisfied with their current online ordering setup and may not see a need for change.",4,Already satisfied or not ready for new online ordering solutions
+call_053,"The rep discovered that the restaurant’s website uses SwipeBy instead of Toast for online ordering, revealing potential confusion or inefficiency in their current setup.",4,Already satisfied or not ready for new online ordering solutions
+call_053,"The prospect mentioned that their SEO work is done only occasionally rather than as a regular investment, implying limited focus or budget for ongoing marketing.",6,Prospect not ready to change systems
+call_054,The prospect showed uncertainty about pricing and whether the cost structure would fit their multi-location business.,2,Pricing questions and cost concerns
+call_054,"The call experienced a technical interruption where the prospect temporarily dropped off, risking loss of engagement.",3,Prospect unavailable or uncertain about timing
+call_054,"The prospect already uses Popmenu for their restaurant website, which could make them hesitant to switch providers or see value in another platform.",4,Already satisfied or not ready for new online ordering solutions
+call_054,"The prospect expressed concern about managing two websites or domains simultaneously, indicating potential conflict with their existing setup.",6,Prospect not ready to change systems
+call_054,The prospect seemed unsure about how the solution would practically outperform their current setup and competitors.,6,Prospect not ready to change systems
+call_055,"The prospect showed mild curiosity but no clear buying intent, saying they were just curious about what the company had to offer.",1,Low prospect engagement or interest
+call_055,"The prospect provided a vague explanation about wanting to see what the company had to offer, without specifying needs or urgency.",1,Low prospect engagement or interest
+call_055,"The prospect expressed confusion when the rep asked what got them interested in Owner, indicating they did not understand the question.",7,Prospect confusion or lack of awareness
+call_056,"The prospect indicated they were not currently available to talk in depth, creating a timing constraint that could block further discussion.",3,Prospect unavailable or uncertain about timing
+call_056,"The prospect appeared hesitant or confused when the rep mentioned working with Toast, potentially signaling concern about switching systems or compatibility.",6,Prospect not ready to change systems
+call_056,The rep needed to secure agreement for a demo or follow-up meeting after initial information sharing.,8,Scheduling or demo confirmation challenges
+call_057,The prospect may be skeptical or unsure of the product’s effectiveness.,1,Low prospect engagement or interest
+call_057,The prospect expresses interest in pricing and possibly hesitates to commit without knowing costs.,2,Pricing questions and cost concerns
+call_057,"The prospect may be hesitant or busy, indicating difficulty coordinating with both owners for a meeting.",3,Prospect unavailable or uncertain about timing
+call_057,The prospect shows uncertainty about how new customers find their restaurant and relies mainly on social media for existing customers.,4,Already satisfied or not ready for new online ordering solutions
+call_057,"The prospect indicates that they are not the owner but a manager, and that two owners make decisions for the four restaurant locations.",9,Speaking with non‑owner or unavailable decision‑maker
+call_058,"The prospect described frustration with DoorDash’s high commission fees and prior negative experiences, noting that family partners were resistant to using it again.",4,Already satisfied or not ready for new online ordering solutions
+call_058,The prospect mentioned that their Google ranking had dropped from first to third and that rebuilding reviews was difficult after a period of inactivity.,6,Prospect not ready to change systems
+call_058,"The prospect expressed confusion early in the call, asking whether Owner.com was like Toast and wanting to understand what the product actually does.",7,Prospect confusion or lack of awareness
+call_058,"The prospect shared extensive background about the restaurant’s history, local economic struggles, and population decline, expressing concern about the future viability of the business.",9,Speaking with non‑owner or unavailable decision‑maker
+call_058,"After discussing local competition and the need to attract a younger crowd, the prospect showed openness to solutions that could help bring in new customers.",9,Speaking with non‑owner or unavailable decision‑maker
+call_059,The prospect mentioned already having a large customer base and questioned whether the service could help with retention and reorders.,0,Limited capacity or no interest in online ordering
+call_059,The prospect expressed hesitation about committing before understanding what the company does and how much it costs.,2,Pricing questions and cost concerns
+call_059,"The prospect pressed again for pricing details, expressing distrust about hidden costs and wanting transparency before agreeing to anything.",2,Pricing questions and cost concerns
+call_059,"The prospect became busy with customers and asked to end the call, suggesting a potential loss of engagement.",3,Prospect unavailable or uncertain about timing
+call_059,"The prospect revealed confusion between their restaurant and a nearby competitor with a similar name, indicating a local branding challenge.",9,Speaking with non‑owner or unavailable decision‑maker
+call_060,The prospect indicated they were really busy and asked the rep to call back tomorrow.,3,Prospect unavailable or uncertain about timing
+call_061,"The prospect indicated they only had two minutes available for the call, creating a time constraint that could limit engagement and information gathering.",3,Prospect unavailable or uncertain about timing
+call_061,"The prospect abruptly stated they had to go, signaling potential disengagement or time exhaustion before the rep could finish qualification.",3,Prospect unavailable or uncertain about timing
+call_061,The prospect expressed satisfaction with their current provider BentoBox but showed openness to exploring alternatives if something better exists.,6,Prospect not ready to change systems
+call_061,"The prospect clarified that they are the general manager and sole decision maker, while the actual owner does not want to be involved in demos or discussions.",9,Speaking with non‑owner or unavailable decision‑maker
+call_062,The prospect indicated they were busy and could not commit to a demo time immediately.,8,Scheduling or demo confirmation challenges
+call_062,The prospect showed hesitation about scheduling a specific time for the demo.,8,Scheduling or demo confirmation challenges
+call_063,The prospect showed potential hesitation about committing to a meeting or using the platform.,1,Low prospect engagement or interest
+call_063,The prospect needed to decide how to communicate and schedule the meeting.,3,Prospect unavailable or uncertain about timing
+call_063,"The prospect did not recognize the company or recall filling out the grader report, showing uncertainty about the context of the call.",5,Prospect confusion about caller identity and purpose
+call_063,"The prospect revealed they were not the restaurant owner but seemed to consult or assist the owner, creating a gatekeeper situation.",9,Speaking with non‑owner or unavailable decision‑maker
+call_064,The prospect revealed that their main constraint was operational capacity — they lacked staff to handle additional orders.,0,Limited capacity or no interest in online ordering
+call_064,The prospect was not ready to move forward immediately and preferred to wait until their new location opened.,6,Prospect not ready to change systems
+call_064,The prospect indicated they were handling their own marketing and did not see a need for Owner.com's services.,7,Prospect confusion or lack of awareness
+call_064,The prospect mentioned they had already seen a demo about two months ago and were not currently interested in revisiting it.,8,Scheduling or demo confirmation challenges
+call_065,The prospect seemed uncertain about what the call was for and whether it was the actual onboarding or just scheduling.,5,Prospect confusion about caller identity and purpose
+call_065,"The rep needed payment information, which could have caused hesitation or delay if the prospect was not ready to provide it.",5,Prospect confusion about caller identity and purpose
+call_065,The rep needed to confirm who would handle the onboarding scheduling and whether the current contact could commit to a time.,8,Scheduling or demo confirmation challenges
+call_065,There was a moment of confusion about the correct day and time for the onboarding appointment.,8,Scheduling or demo confirmation challenges
+call_066,The prospect stated they do not handle online ordering or delivery matters and that their manager is responsible for those decisions.,0,Limited capacity or no interest in online ordering
+call_066,The prospect expressed confusion about the topic and asked the rep to call back at another time.,5,Prospect confusion about caller identity and purpose
+call_067,The prospect’s missing Google profile prevents the rep from demonstrating the product’s value or providing an accurate quote.,1,Low prospect engagement or interest
+call_067,The prospect shows mild engagement but no immediate commitment to a demo or next meeting.,1,Low prospect engagement or interest
+call_067,"The prospect reveals they do not have an active Google Business Profile, which is suspended or inaccessible.",4,Already satisfied or not ready for new online ordering solutions
+call_067,"The prospect mentions they are already working with someone from Google to fix their profile, creating potential confusion about overlapping efforts.",6,Prospect not ready to change systems
+call_068,"The prospect did not receive the text link the rep sent, creating a delay and potential frustration during the signup process.",1,Low prospect engagement or interest
+call_068,"The prospect expressed uncertainty about which pricing plan to start with, asking if the rep thought they should begin with the lower or higher tier.",2,Pricing questions and cost concerns
+call_068,The prospect sought confirmation that the $249 plan still included all previously discussed features such as the app.,2,Pricing questions and cost concerns
+call_068,"The prospect needed to pause the conversation briefly to handle another matter, which could have disrupted call momentum.",3,Prospect unavailable or uncertain about timing
+call_068,The prospect confirmed payment completion but needed clarity on next steps for onboarding and setup.,6,Prospect not ready to change systems
+call_069,"The prospect shared that their online sales vary by location, with some doing as low as $2,000 a week, raising uncertainty about meeting Owner’s minimum sales threshold.",0,Limited capacity or no interest in online ordering
+call_069,The prospect appeared uncertain about providing sales receipts or whether their reported figures would qualify them for a meeting.,1,Low prospect engagement or interest
+call_069,"The prospect expressed limited availability, mentioning they could meet any day except Friday and possibly later the same day.",3,Prospect unavailable or uncertain about timing
+call_069,The prospect indicated they operate under a franchise and may have restrictions on using their own domain or making independent marketing decisions.,9,Speaking with non‑owner or unavailable decision‑maker
+call_070,The prospect indicated they were busy and asked the rep to call the store number or speak with their manager instead of continuing the conversation personally.,3,Prospect unavailable or uncertain about timing
+call_071,"The prospect indicated they were busy at the moment, which could limit their willingness to engage in a longer conversation or confirm demo details.",8,Scheduling or demo confirmation challenges
+call_071,"The rep discovered that the preferred product specialist would be unavailable on the originally scheduled day, creating a potential scheduling conflict for the demo.",8,Scheduling or demo confirmation challenges
+call_071,"The prospect mentioned having another restaurant, which could complicate scheduling or demo preparation if not clarified.",9,Speaking with non‑owner or unavailable decision‑maker
+call_072,The prospect appeared to hesitate or have difficulty completing the payment or registration process when the rep sent the link.,1,Low prospect engagement or interest
+call_072,"The prospect seemed uncertain about whether it was a good time to talk, possibly being at the restaurant and distracted.",3,Prospect unavailable or uncertain about timing
+call_072,The prospect may have been concerned about timing or how quickly the onboarding and website build could happen.,6,Prospect not ready to change systems
+call_072,The prospect needed to decide on a specific time for the onboarding demo call.,8,Scheduling or demo confirmation challenges
+call_073,The prospect interrupts the call due to being in the middle of a lunch rush and requests to continue later in the evening.,3,Prospect unavailable or uncertain about timing
+call_073,"The prospect reveals they recently signed up with Toast for their website, only about a week or two ago, indicating they are already committed to another provider.",6,Prospect not ready to change systems
+call_073,"The prospect mentions they just published their website a day or two ago, implying they have not yet seen results and may be too early in the process to consider alternatives.",6,Prospect not ready to change systems
+call_074,The prospect asked whether their existing Square online ordering system and kitchen printer integration would still work.,0,Limited capacity or no interest in online ordering
+call_074,"The prospect mentioned being too busy due to a manager being out and focusing on operations, asking to reach back out next week instead of engaging immediately.",3,Prospect unavailable or uncertain about timing
+call_074,The prospect expressed concern about losing their current website domain if they switched to Owner.com.,7,Prospect confusion or lack of awareness
+call_074,The prospect was uncertain whether their current web developer owned the domain and admitted not remembering details from 10 years ago.,7,Prospect confusion or lack of awareness
+call_074,"At the end of the call, the prospect said they needed to talk with their partner and could not schedule the demo immediately.",8,Scheduling or demo confirmation challenges
+call_075,The prospect indicated they were busy with lunch service and asked the rep to send an email instead of continuing the conversation.,3,Prospect unavailable or uncertain about timing
+call_075,The prospect expressed unfamiliarity with the company by saying they had never heard of owner.com.,7,Prospect confusion or lack of awareness
+call_076,The prospect indicated they were not very tech-savvy or interested in managing online operations themselves.,1,Low prospect engagement or interest
+call_076,The conversation risked losing momentum near the end as the rep transitioned to wrap-up.,3,Prospect unavailable or uncertain about timing
+call_076,"The prospect appeared to rely heavily on DoorDash and did not have their own website, suggesting a potential lack of digital infrastructure or initiative.",4,Already satisfied or not ready for new online ordering solutions
+call_076,The prospect did not recall the earlier demo request and seemed uncertain about Owner.com.,7,Prospect confusion or lack of awareness
+call_076,The rep needed to secure a commitment for a demo time while the prospect’s availability was uncertain.,8,Scheduling or demo confirmation challenges
+call_077,"The prospect signals time pressure and a need to return to work, indicating the call may end soon.",3,Prospect unavailable or uncertain about timing
+call_077,The prospect indicates that the main contact (his brother) is not available and questions who the caller is and what company they represent.,5,Prospect confusion about caller identity and purpose
+call_077,The prospect expresses uncertainty about why the meeting was booked and asks what the company does.,5,Prospect confusion about caller identity and purpose
+call_077,"The prospect declines to join the 5 p.m. demo, saying they will be busy and that the brother will handle it.",8,Scheduling or demo confirmation challenges
+call_077,"The prospect reveals they recently left a franchise and are now independently running the business, implying a transition period and potential marketing needs.",9,Speaking with non‑owner or unavailable decision‑maker
+call_078,The prospect expressed strong skepticism due to past negative experiences with similar marketing companies that promised results but failed to deliver.,1,Low prospect engagement or interest
+call_078,"The prospect ultimately stated that the $500 cost was not worth it and declined further engagement, citing time constraints and distrust from prior experiences.",1,Low prospect engagement or interest
+call_078,The prospect questioned the $499 monthly cost and expressed confusion about what was included and how the company makes money.,2,Pricing questions and cost concerns
+call_078,"The prospect demanded a results-based payment model, asking not to pay until seeing measurable gains and requesting it in writing.",2,Pricing questions and cost concerns
+call_078,"The prospect said they were busy and asked the rep to cut to the chase, signaling limited time and potential impatience.",3,Prospect unavailable or uncertain about timing
+call_079,The prospect did not recall filling out the form on the website and showed no immediate recognition or engagement with the rep’s outreach.,1,Low prospect engagement or interest
+call_079,"The prospect showed limited interest or engagement when the rep introduced pricing and features, indicating potential hesitation about cost or relevance.",1,Low prospect engagement or interest
+call_079,"The prospect appeared to have an existing provider ('Front Eats') and did not express dissatisfaction, implying a potential objection around switching or redundancy.",6,Prospect not ready to change systems
+call_079,The prospect became noncommittal and attempted to end the call without agreeing to a demo or next step.,8,Scheduling or demo confirmation challenges
+call_080,The prospect showed minimal engagement when asked about their online visibility and whether they were working on improving Google search ranking.,1,Low prospect engagement or interest
+call_080,"The prospect gave a vague response ('from everywhere') when asked where new customers usually come from, showing limited insight or interest in marketing channels.",1,Low prospect engagement or interest
+call_080,"At the end of the call, the rep proposed a specific follow-up time for the next day.",3,Prospect unavailable or uncertain about timing
+call_080,"The prospect confirmed they pay high DoorDash fees but did not express clear interest or concern about it, creating a potential opening or hesitation point.",4,Already satisfied or not ready for new online ordering solutions
+call_080,The prospect indicated they had previously spoken with another rep (rep_15) and seemed uncertain about the context or purpose of this follow-up call.,5,Prospect confusion about caller identity and purpose
+call_081,"The prospect stated that all their online ordering is going through Toast, implying potential redundancy or integration concerns.",0,Limited capacity or no interest in online ordering
+call_081,The prospect expressed hesitation to commit immediately and asked the rep to send information by email instead of booking a demo on the call.,8,Scheduling or demo confirmation challenges
+call_081,"The prospect mentioned they are exploring different options for the business, including possible franchising, and are unsure which direction to go.",9,Speaking with non‑owner or unavailable decision‑maker
+call_082,"The prospect did not specify any particular information they wanted in the follow-up email, showing minimal engagement at the close.",1,Low prospect engagement or interest
+call_082,The prospect showed no clear response or enthusiasm when asked about their current reliance on third-party delivery platforms and associated commission fees.,4,Already satisfied or not ready for new online ordering solutions
+call_082,"The prospect expressed conditional interest, saying the solution would be worth discussing only if it actually worked.",6,Prospect not ready to change systems
+call_082,The prospect did not recognize or have familiarity with the local restaurant reference (Taza) that the rep used to build credibility.,9,Speaking with non‑owner or unavailable decision‑maker
+call_083,"The prospect interrupts early in the call, expressing a desire to save time and directly asking what the call is about.",3,Prospect unavailable or uncertain about timing
+call_083,"The prospect indicates they are not the right person to handle such matters and redirects the rep to another contact, Clay McAfee.",5,Prospect confusion about caller identity and purpose
+call_084,The prospect explained they do not advertise or use online ordering because they are short-staffed and cannot handle more business.,0,Limited capacity or no interest in online ordering
+call_084,The prospect stated they were not ready for delivery and were already too busy to handle more orders.,0,Limited capacity or no interest in online ordering
+call_084,"The prospect said they were satisfied with their current business level, did not want to advertise, and could not handle more customers.",0,Limited capacity or no interest in online ordering
+call_084,"The prospect expressed hesitation about joining a Google meeting demo, saying it was a bad time and they were still sleeping.",8,Scheduling or demo confirmation challenges
+call_085,"The prospect expressed confusion about pricing and package contents, referencing a $500 plan they found online that included multiple features.",2,Pricing questions and cost concerns
+call_085,The prospect wanted to confirm whether the optimization service would modify their existing website or create a new one.,6,Prospect not ready to change systems
+call_085,The prospect needed confirmation that they received the follow-up email and understood how to proceed with the website improvement link.,6,Prospect not ready to change systems
+call_085,The prospect asked whether Owner.com supports restaurants that are not yet open and sought clarity on what services are available before launch.,7,Prospect confusion or lack of awareness
+call_085,"The prospect revealed they have not yet purchased the restaurant and plan to open in about two months, creating uncertainty about their readiness for a demo.",9,Speaking with non‑owner or unavailable decision‑maker
+call_086,The prospect stated their business is already doing well and they cannot take more business due to being fully booked and staff being tired.,0,Limited capacity or no interest in online ordering
+call_086,The prospect explained that staffing shortages and seasonal fluctuations make it difficult to handle additional online or delivery orders.,0,Limited capacity or no interest in online ordering
+call_086,The prospect mentioned they regularly receive similar sales calls and typically turn them down because they are satisfied with their current business level.,1,Low prospect engagement or interest
+call_086,"The prospect suggested the rep email information and said they would review it with their family later, implying a polite deferral rather than immediate interest.",3,Prospect unavailable or uncertain about timing
+call_087,"The prospect decided to calculate his numbers later and said he would call back if they improved, effectively pausing the process.",3,Prospect unavailable or uncertain about timing
+call_087,"The prospect was unsure about his current online sales numbers and needed to log in to check data from Sauce, DoorDash, and Uber Eats.",4,Already satisfied or not ready for new online ordering solutions
+call_087,"The prospect indicated interest in Owner.com because others recommended it and he wants to make more money, signaling curiosity but also uncertainty about fit.",7,Prospect confusion or lack of awareness
+call_087,"After the rep explained that Owner.com typically only works with businesses doing at least $3,500–$4,000 in monthly online sales, the prospect realized he might not meet that threshold.",7,Prospect confusion or lack of awareness
+call_087,The prospect shared a personal story about losing his wife and explained he currently runs one bakery but plans to open a second location before the year ends.,9,Speaking with non‑owner or unavailable decision‑maker
+call_088,The prospect showed uncertainty about how many online orders they could realistically handle or wanted to target.,0,Limited capacity or no interest in online ordering
+call_088,The prospect’s newness and possible caution about committing to a full platform created a potential hesitation to move forward immediately.,6,Prospect not ready to change systems
+call_088,"The prospect clarified that they only have one restaurant location and had recently opened less than two months ago, indicating limited operational history and potential hesitation about taking on new tools.",9,Speaking with non‑owner or unavailable decision‑maker
+call_088,"The rep discovered the prospect is partnered with U.S. Foods, which could influence purchasing decisions or available offers.",9,Speaking with non‑owner or unavailable decision‑maker
+call_089,"The prospect showed hesitation or disinterest when the rep asked about current online sales performance, giving minimal or unclear responses.",1,Low prospect engagement or interest
+call_089,"The prospect did not recall the company or previous interaction, showing uncertainty about who the rep was and why they were calling.",5,Prospect confusion about caller identity and purpose
+call_090,"The prospect stated they only use third-party delivery services, revealing a potential pain point related to commission fees and control over delivery.",4,Already satisfied or not ready for new online ordering solutions
+call_090,"The prospect expressed uncertainty about whether SEO improvements fit their current plans or if they were willing to make big moves, signaling hesitation about the solution’s relevance.",6,Prospect not ready to change systems
+call_090,"The prospect mentioned they were not in the office and could not take notes or dive deep into the discussion, suggesting a delay and potential loss of focus on scheduling a demo.",8,Scheduling or demo confirmation challenges
+call_091,"The prospect abruptly ended the call with 'Take care' after the rep began asking about order volume sources, signaling disinterest or impatience.",3,Prospect unavailable or uncertain about timing
+call_092,"The prospect mentioned that their current online ordering platform, EatStreet, has been slow, implying dissatisfaction or low performance.",4,Already satisfied or not ready for new online ordering solutions
+call_092,The prospect did not commit to a specific time for a demo and responded vaguely when the rep suggested Monday or Tuesday.,8,Scheduling or demo confirmation challenges
+call_093,"The prospect indicated disinterest or lack of availability by saying 'Not right now,' signaling hesitation to engage further or book a demo.",8,Scheduling or demo confirmation challenges
+call_094,"The prospect, Kevin, directly stated that they are not interested in the service and ended the conversation.",1,Low prospect engagement or interest
+call_095,The prospect informed the rep that the decision-maker was not available and offered to take a message instead.,3,Prospect unavailable or uncertain about timing
+call_095,"After hearing the explanation, the prospect ended the call by agreeing to pass along the message rather than engaging further or booking a demo.",3,Prospect unavailable or uncertain about timing
+call_095,"The prospect asked clarifying questions about who the rep was, their company, and the purpose of the call, showing uncertainty about the rep’s legitimacy.",5,Prospect confusion about caller identity and purpose
+call_095,"The prospect sought to confirm what the call was about, specifically asking if it related to online matters.",5,Prospect confusion about caller identity and purpose
+call_096,The prospect indicated they were satisfied with their current online ordering setup and said they were okay right now.,0,Limited capacity or no interest in online ordering
+call_096,The prospect mentioned they have someone else handling online orders and they personally have no involvement or complaints.,0,Limited capacity or no interest in online ordering
+call_097,The prospect stated they are not the person handling online ordering or marketing decisions and redirected responsibility to their social media marketing person.,0,Limited capacity or no interest in online ordering
+call_097,"The prospect provided contact information for their general manager and marketing contact, indicating a handoff rather than personal engagement.",1,Low prospect engagement or interest
+call_097,The prospect mentioned being on their way to another Zoom call and needed to end the conversation.,3,Prospect unavailable or uncertain about timing
+call_097,"The prospect indicated satisfaction with current online ordering platforms (TapTapEat, DoorDash, Grubhub) and shared they generate about $40,000 a month, implying limited motivation to change providers.",4,Already satisfied or not ready for new online ordering solutions
+call_098,The prospect refused to share an email address and reiterated they do not give information or do anything over the phone.,1,Low prospect engagement or interest
+call_098,"After learning the rep was not local and based in San Francisco, the prospect withdrew interest and declined the meeting.",1,Low prospect engagement or interest
+call_098,"The prospect showed hesitation about doing business over the phone, saying they would only consider it if the rep stopped by in person.",3,Prospect unavailable or uncertain about timing
+call_098,"The prospect expressed confusion about whether the rep’s service was just another website provider, questioning 'are you another website thing?'",5,Prospect confusion about caller identity and purpose
+call_099,The prospect expressed disinterest by saying they might not be interested in the offering.,1,Low prospect engagement or interest
+call_099,"The prospect initially indicated they were busy working in the restaurant kitchen during the call, creating a time constraint for deeper discussion.",3,Prospect unavailable or uncertain about timing
+call_099,The prospect clearly stated they probably would not decide to do the program and later confirmed they were too busy to consider it.,6,Prospect not ready to change systems
+call_100,"The prospect clarified they had only requested the health report out of curiosity, signaling low initial intent to engage further.",1,Low prospect engagement or interest
+call_100,"The prospect interrupted to say the owner was present and asked the rep to call back later, creating a potential stall in the conversation.",3,Prospect unavailable or uncertain about timing
+call_100,The prospect requested to use their personal number and proposed a specific callback time around 5 PM.,3,Prospect unavailable or uncertain about timing
+call_100,The prospect revealed they had tried but failed to set up online ordering through their website and currently rely only on third-party delivery apps.,4,Already satisfied or not ready for new online ordering solutions
+call_101,The prospect stated they do not do online ordering at all and that it is by design.,0,Limited capacity or no interest in online ordering
+call_101,The prospect indicated they might have heard of the company before but did not show strong engagement.,1,Low prospect engagement or interest
+call_101,The prospect asked for clarification on pricing and how the $499 fee is structured.,2,Pricing questions and cost concerns
+call_101,"At the end of the call, the prospect mentioned being in a bad spot while driving, preventing further discussion or scheduling.",3,Prospect unavailable or uncertain about timing
+call_101,The prospect clarified that their restaurant concept does not work with online ordering and they avoid third-party platforms.,4,Already satisfied or not ready for new online ordering solutions
+call_102,"The prospect seemed to express that phone orders with modifiers were manageable or preferred, implying hesitation about switching to an online system.",0,Limited capacity or no interest in online ordering
+call_102,"The prospect did not show strong interest or urgency to explore a new system, signaling potential disinterest in booking a demo.",1,Low prospect engagement or interest
+call_102,"The prospect indicated they currently only take phone orders for takeout and have no delivery option, suggesting limited interest or awareness of online ordering solutions.",4,Already satisfied or not ready for new online ordering solutions
+call_103,"The prospect indicated they were already 'all set,' implying they were satisfied with their current marketing or ordering setup and not interested in further discussion.",6,Prospect not ready to change systems
+call_104,The prospect showed interest but had not clearly stated their motivation or pain point for wanting the SEO report.,1,Low prospect engagement or interest
+call_104,The prospect might have been hesitant about committing to a sales meeting due to uncertainty about fit or potential cost.,1,Low prospect engagement or interest
+call_104,The prospect expressed concern about their restaurant not showing up well online despite having good reviews and social media presence.,4,Already satisfied or not ready for new online ordering solutions
+call_104,"The prospect had been traveling and had not yet scheduled a time for the demo, creating uncertainty about when or if the meeting would occur.",8,Scheduling or demo confirmation challenges
+call_105,"The prospect asked how they could test the rep’s claims without signing an agreement, showing hesitation about commitment.",1,Low prospect engagement or interest
+call_105,The prospect expressed confusion about what 'visibility on the website' meant and asked the rep to explain.,5,Prospect confusion about caller identity and purpose
+call_105,"The prospect questioned the rep’s location and credibility, asking where the rep was calling from and what area they work in.",5,Prospect confusion about caller identity and purpose
+call_105,The prospect asked how they would know if the solution makes sense and whether they need to be present for that evaluation.,6,Prospect not ready to change systems
+call_105,"The prospect delayed scheduling a demo, citing that one manager was away for the weekend and they needed to discuss it internally first.",8,Scheduling or demo confirmation challenges
+call_106,"The prospect stated that their website orders and third-party orders were about the same, showing no immediate pain point.",0,Limited capacity or no interest in online ordering
+call_106,"The prospect was unsure about the commission rates taken by delivery platforms, indicating limited awareness of cost impact.",2,Pricing questions and cost concerns
+call_106,The prospect said she would need to check with the owner before committing to a meeting.,3,Prospect unavailable or uncertain about timing
+call_106,The prospect did not recall submitting a demo request and seemed uncertain about prior contact with Owner.com.,7,Prospect confusion or lack of awareness
+call_106,The prospect asked for an email with more information instead of immediately scheduling a demo.,8,Scheduling or demo confirmation challenges
+call_107,"The prospect interrupted the conversation to take an important phone call, ending the discussion abruptly.",3,Prospect unavailable or uncertain about timing
+call_107,"The prospect asked if the rep’s solution involved creating another website, showing uncertainty about what the offering actually entailed.",5,Prospect confusion about caller identity and purpose
+call_107,The prospect revealed they already have someone managing their website and expressed concern about mixing or duplicating web pages.,6,Prospect not ready to change systems
+call_108,"The prospect expressed mild curiosity but limited engagement, responding with short acknowledgments like 'interesting' and 'yeah' during the technical explanation.",1,Low prospect engagement or interest
+call_108,The prospect reiterated they couldn’t meet soon and wanted to push the conversation down the road.,3,Prospect unavailable or uncertain about timing
+call_108,"The prospect asked to be reminded what the company does, showing lack of recall or awareness about Owner.com’s offering.",7,Prospect confusion or lack of awareness
+call_108,"When asked to book a meeting, the prospect objected, saying they already have a web guy handling things and are too busy, declining a demo for now.",8,Scheduling or demo confirmation challenges
+call_109,The prospect shows mild interest but does not express a clear desire to change or adopt a new system.,1,Low prospect engagement or interest
+call_109,The prospect confirms their restaurant only takes phone orders for takeout and does not have an online ordering or delivery system.,4,Already satisfied or not ready for new online ordering solutions
+call_109,The prospect does not commit directly to a demo but provides another contact (likely a decision-maker) and their phone number.,8,Scheduling or demo confirmation challenges
+call_110,"The prospect suggested the rep could reach out in about a year, leaving a small window for future contact but no immediate interest.",3,Prospect unavailable or uncertain about timing
+call_110,"The prospect stated they are not looking to do anything because the restaurant is in the midst of a potential buyout, indicating no current interest or capacity to engage in new initiatives.",9,Speaking with non‑owner or unavailable decision‑maker
+call_110,"The prospect explained that the incoming ownership group is experienced and likely already has advertising and website support, suggesting limited future opportunity for the rep’s services.",9,Speaking with non‑owner or unavailable decision‑maker
+call_111,The prospect indicated they were currently at work and could not engage in a full conversation at that moment.,3,Prospect unavailable or uncertain about timing
+call_111,"The prospect mentioned scheduling constraints and emphasized that partnership slots fill up early in the week, urging a quick response to secure a time.",3,Prospect unavailable or uncertain about timing
+call_111,"The prospect was initially confused about who the caller was and what company they represented, asking multiple times for clarification about 'Owner.com'.",7,Prospect confusion or lack of awareness
+call_112,"The prospect mentioned they were switching to a new provider (SpotOn) and that this provider would handle their SEO, implying they were already committed to another solution.",6,Prospect not ready to change systems
+call_112,"The prospect indicated that the new system was not yet implemented, suggesting uncertainty about future results and timing for any new engagement.",6,Prospect not ready to change systems
+call_113,"The prospect expressed disinterest in loyalty systems and marketing, indicating a potential objection to the product’s relevance.",1,Low prospect engagement or interest
+call_113,The prospect stated they had no time to talk because it was Friday afternoon before dinner service.,3,Prospect unavailable or uncertain about timing
+call_113,The prospect requested that information be sent by email and stated they were busy and not interested in a cold call.,3,Prospect unavailable or uncertain about timing
+call_113,"The prospect questioned who the rep was and whether they were calling from Google, showing confusion and skepticism about the caller’s identity.",5,Prospect confusion about caller identity and purpose
+call_114,"The prospect shows no interest in exploring new marketing or demo opportunities, indicating satisfaction with the current setup and lack of intent to engage further.",1,Low prospect engagement or interest
+call_114,The prospect expresses contentment with existing ordering platforms and does not indicate a desire for additional customer acquisition solutions.,4,Already satisfied or not ready for new online ordering solutions
+call_115,The prospect reveals they are already using Ordering360 for online ordering and have not yet gone live.,4,Already satisfied or not ready for new online ordering solutions
+call_115,"The prospect indicates they have a one-year contract with Ordering360, implying they cannot switch or explore alternatives soon.",6,Prospect not ready to change systems
+call_116,"The prospect asked about the cost structure, showing concern about potential expenses.",2,Pricing questions and cost concerns
+call_116,"The prospect requested that information be sent by message instead of continuing the call, indicating limited availability.",3,Prospect unavailable or uncertain about timing
+call_116,The prospect expressed uncertainty about their restaurant’s online visibility and mentioned they were new and still figuring things out.,4,Already satisfied or not ready for new online ordering solutions
+call_116,The prospect said they need to talk to their business partner before proceeding and were unsure about scheduling a follow-up.,6,Prospect not ready to change systems
+call_117,"The prospect indicated they were busy and asked the rep to call back after Wednesday, showing a time constraint and potential deferral of the conversation.",3,Prospect unavailable or uncertain about timing
+call_117,"At the end of the call, the prospect said they would think about it, indicating hesitation or uncertainty about moving forward.",3,Prospect unavailable or uncertain about timing
+call_117,"The prospect mentioned they would talk to their manager before deciding, signaling that they were not the sole decision-maker and introducing a dependency on another person.",6,Prospect not ready to change systems
+call_118,The prospect indicated that Angel was not the right person to discuss the service and redirected the rep to speak with Gilberto instead.,5,Prospect confusion about caller identity and purpose
+call_119,The prospect expressed confusion about who the caller was and which company they represented.,5,Prospect confusion about caller identity and purpose
+call_119,The prospect indicated they recently started working with another provider and preferred to keep that relationship.,6,Prospect not ready to change systems
+call_119,The prospect stated they were driving and did not have time to view a demo or screen share.,8,Scheduling or demo confirmation challenges
+call_120,"The prospect indicated that they are not the person who handles the restaurant’s website, mentioning that their accountant manages it instead.",9,Speaking with non‑owner or unavailable decision‑maker
+call_121,"The person who answered the call revealed she was the prospect’s sister, not the business owner the rep intended to reach.",5,Prospect confusion about caller identity and purpose
+call_121,"The sister asked who was calling and what the call was regarding, signaling curiosity and a potential gatekeeping moment.",5,Prospect confusion about caller identity and purpose
+call_121,"The sister explained that the actual owner was out of the country until the end of March, creating a delay in reaching the decision-maker.",9,Speaking with non‑owner or unavailable decision‑maker
+call_121,"The sister redirected the rep to contact her brother, who manages the restaurant operations, and provided his name and timing for when he is usually available.",9,Speaking with non‑owner or unavailable decision‑maker
+call_122,"The prospect stated they did not have time right now to discuss further and would call back later, showing immediate unavailability and possible deferral.",3,Prospect unavailable or uncertain about timing
+call_122,"The prospect mentioned that next week is rough and they are backed up with work, indicating scheduling hesitation for a demo.",8,Scheduling or demo confirmation challenges
+call_123,"The prospect indicated they had not looked into any other options for online ordering beyond DoorDash and Uber Eats, showing low awareness or motivation to change.",4,Already satisfied or not ready for new online ordering solutions
+call_123,"The prospect did not recognize the rep’s company name, showing unfamiliarity and possible skepticism.",5,Prospect confusion about caller identity and purpose
+call_123,"The prospect mentioned that their sales were inconsistent, suggesting a potential pain point but also uncertainty about the cause or solution.",6,Prospect not ready to change systems
+call_123,"At the end of the call, the prospect did not commit to a demo but agreed to a callback time after the lunch rush.",8,Scheduling or demo confirmation challenges
+call_124,"The prospect explained that their location is already very busy, sometimes turning off online orders due to high volume and limited staff, implying no need for additional ordering channels.",0,Limited capacity or no interest in online ordering
+call_124,The prospect indicated they do not use any third-party delivery services and rely solely on their POS Toast online ordering system.,4,Already satisfied or not ready for new online ordering solutions
+call_124,"The prospect revealed they are not the decision-maker and that the daughter, Jenny, is the owner responsible for such decisions.",9,Speaking with non‑owner or unavailable decision‑maker
+call_124,"The prospect mentioned that Jenny, the decision-maker, is extremely busy with family and restaurant responsibilities, suggesting limited availability for engagement.",9,Speaking with non‑owner or unavailable decision‑maker
+call_125,The prospect indicated that the person on the phone was not the decision-maker and directed the rep to contact someone named Luigi instead.,5,Prospect confusion about caller identity and purpose
+call_126,"The prospect expressed appreciation but asked the rep to send an email instead of continuing the conversation, citing that they were currently working and busy with lunch service.",3,Prospect unavailable or uncertain about timing
+call_126,The prospect reiterated they had to go immediately due to being busy.,3,Prospect unavailable or uncertain about timing
+call_126,The prospect indicated they were unfamiliar with the reference contact (Severin Jones) that the rep mentioned as social proof.,5,Prospect confusion about caller identity and purpose
+call_127,The prospect explained she would be out of the country starting Friday and asked to call back later to set up the meeting.,3,Prospect unavailable or uncertain about timing
+call_127,The prospect said she needed to discuss the decision with her husband before proceeding.,6,Prospect not ready to change systems
+call_127,The prospect admitted she was not sure what Owner.com does and only vaguely remembered seeing it on Facebook.,7,Prospect confusion or lack of awareness
+call_128,"The prospect asked about pricing and commission rates, indicating a cost concern or curiosity about the offer.",2,Pricing questions and cost concerns
+call_128,The prospect initially indicated that the relevant person was not available and seemed unsure about continuing the conversation.,3,Prospect unavailable or uncertain about timing
+call_128,"The prospect deferred the conversation, saying their son handles such matters and would talk later.",3,Prospect unavailable or uncertain about timing
+call_128,"The prospect expressed unfamiliarity with the restaurant name mentioned by the rep, showing confusion about the context of the call.",5,Prospect confusion about caller identity and purpose
+call_128,"The prospect declined to discuss the report further and reiterated that only their son would handle it, mentioning the son was out of town.",9,Speaking with non‑owner or unavailable decision‑maker
+call_129,"The prospect redirected the rep to speak with their manager, indicating they were not the decision-maker for online orders.",0,Limited capacity or no interest in online ordering
+call_129,"The prospect declined to join future calls, citing being too busy and delegating responsibility to the manager.",3,Prospect unavailable or uncertain about timing
+call_129,"The prospect asked what the call was about, indicating confusion or lack of awareness about the demo request.",5,Prospect confusion about caller identity and purpose
+call_129,The prospect stated they did not remember submitting a demo request and suggested it might have been their manager.,8,Scheduling or demo confirmation challenges
+call_130,"The prospect asked whether he would have input on how the system works, specifically if he could prioritize to-go sales.",0,Limited capacity or no interest in online ordering
+call_130,The prospect mentioned he already uses delivery services and seemed to question the need for another solution.,4,Already satisfied or not ready for new online ordering solutions
+call_130,"The prospect expressed confusion about what the company does after the rep mentioned other local clients, indicating he had been looking at many different solutions.",5,Prospect confusion about caller identity and purpose
+call_130,The prospect revealed he is currently investing in a to-go room build-out and is cautious about spending more money until that project is complete.,6,Prospect not ready to change systems
+call_130,The prospect stated he would prefer to talk in a couple of months because he won’t use the service until his build-out is finished and doesn’t want to forget about it.,6,Prospect not ready to change systems
+call_131,"The prospect mentioned that their brother, the decision-maker, is very busy and preferred that the rep contact him by email rather than by phone.",3,Prospect unavailable or uncertain about timing
+call_131,"The prospect indicated that they are not the decision-maker and redirected the rep to their brother, who handles operations and is responsible for such decisions.",9,Speaking with non‑owner or unavailable decision‑maker
+call_132,"The prospect did not have access to a computer at the scheduled time, which could prevent the rep from showing the demo.",8,Scheduling or demo confirmation challenges
+call_132,The prospect indicated that their son might be involved in the business and could assist with coordination.,9,Speaking with non‑owner or unavailable decision‑maker
+call_133,"The prospect was not immediately available, and the rep was speaking with someone else who might not be the decision-maker.",3,Prospect unavailable or uncertain about timing
+call_133,The person on the line showed uncertainty or confusion about the rep’s reference to another local business and location.,5,Prospect confusion about caller identity and purpose
+call_133,The prospect indicated that someone else might now handle marketing or online presence responsibilities.,9,Speaking with non‑owner or unavailable decision‑maker
+call_134,The prospect explained they were not doing anything to increase online orders because the busy season was coming and they were already too busy to handle more orders.,0,Limited capacity or no interest in online ordering
+call_134,"The prospect reiterated that due to limited space and staff, they cannot extend or change operations at this time.",0,Limited capacity or no interest in online ordering
+call_134,"The prospect stated that the restaurant is small, with only four or five employees, and cannot handle more business or expand operations.",9,Speaking with non‑owner or unavailable decision‑maker
+call_135,"The prospect stated that it was the lunch hour and they were too busy to talk, suggesting the rep should call back later.",3,Prospect unavailable or uncertain about timing
+call_135,"The prospect expressed uncertainty about the exact time for a callback, shifting from 'later this afternoon' to 'next week sometime.'",3,Prospect unavailable or uncertain about timing
+call_135,"The prospect indicated that the person the rep asked for, Andy, was not available and implied Andy was not the right contact.",5,Prospect confusion about caller identity and purpose
+call_136,"The prospect did not clearly confirm interest in online ordering and instead asked for an email contact, signaling hesitation to engage further on the call.",1,Low prospect engagement or interest
+call_136,The prospect showed confusion or lack of awareness about the company when asked if they had heard of owner.com.,7,Prospect confusion or lack of awareness
+call_137,The prospect stated that their restaurant was not ready to start marketing or online ordering because they were working on a new concept and redoing operations.,0,Limited capacity or no interest in online ordering
+call_137,The prospect explained that the kitchen was overwhelmed and they currently had no online ordering system in place.,0,Limited capacity or no interest in online ordering
+call_137,"The prospect initially did not recognize the company or recall any prior contact, expressing confusion about who reached out and why.",5,Prospect confusion about caller identity and purpose
+call_137,The prospect reiterated that marketing decisions were handled by another department and that they were not ready to engage until after internal systems and business separations were complete.,6,Prospect not ready to change systems
+call_137,"The prospect firmly stated that it was not a good time, citing workload and ongoing projects, and declined to schedule a demo despite multiple attempts from the rep.",8,Scheduling or demo confirmation challenges
+call_138,The prospect did not express interest or engagement after hearing about the 0% commission delivery and other features.,1,Low prospect engagement or interest
+call_138,The prospect indicated they do not currently do any online ordering or delivery.,4,Already satisfied or not ready for new online ordering solutions
+call_138,The prospect confirmed that online growth is not a priority and that they are not on any delivery platforms like DoorDash or UberEats.,4,Already satisfied or not ready for new online ordering solutions
+call_139,"The prospect mentioned they were driving and requested the rep’s phone number to pass along to the manager, signaling limited availability to continue the call.",3,Prospect unavailable or uncertain about timing
+call_139,"The prospect indicated they did not speak much English, creating a language barrier that could prevent effective communication and demo scheduling.",8,Scheduling or demo confirmation challenges
+call_139,"The prospect stated that the manager was not present and that the manager or their son handled such matters, implying the current contact was not the decision-maker.",9,Speaking with non‑owner or unavailable decision‑maker
+call_140,"The prospect refuses to share store sales data, signaling discomfort and a boundary on information sharing.",1,Low prospect engagement or interest
+call_140,"The prospect dismisses the example of another restaurant’s $16,000 in online sales as unimpressive, implying skepticism about the value of the rep’s solution.",4,Already satisfied or not ready for new online ordering solutions
+call_140,"The prospect states their DoorDash sales are around $50,000 per month and expresses doubt that the rep’s company can help, asserting they already drive orders from their website and other sources.",4,Already satisfied or not ready for new online ordering solutions
+call_140,"The prospect insists their restaurant sales far exceed third-party sales and that they already have strong direct ordering and local following, concluding there is no need for the rep’s help.",4,Already satisfied or not ready for new online ordering solutions
+call_141,The prospect asked about pricing before committing to a demo or further discussion.,2,Pricing questions and cost concerns
+call_141,"The prospect reiterated the need to consult their partner, who was currently unavailable, and suggested calling back later.",3,Prospect unavailable or uncertain about timing
+call_141,The prospect clarified that it was their partner who had shown interest and requested to speak with them before proceeding.,6,Prospect not ready to change systems
+call_142,"The prospect indicated they pay a lot in commission fees to DoorDash and Uber Eats, revealing a pain point but also potential skepticism about alternatives.",4,Already satisfied or not ready for new online ordering solutions
+call_142,The prospect did not commit immediately to a demo and deferred the conversation to a later time after speaking with Pedro.,8,Scheduling or demo confirmation challenges
+call_142,"The prospect mentioned another person, Pedro, who appears to be involved in decisions, suggesting the rep was not speaking with the sole decision-maker.",9,Speaking with non‑owner or unavailable decision‑maker
+call_143,The prospect raised an implicit concern about pricing and value when the rep mentioned a flat monthly fee and compared it to commission-based models.,2,Pricing questions and cost concerns
+call_143,The prospect showed uncertainty or confusion about how Owner.com differs from DoorDash and how deliveries would actually work.,7,Prospect confusion or lack of awareness
+call_143,"The prospect appeared to be busy handling customers during the call, creating a time constraint that could prevent meaningful discussion or demo scheduling.",8,Scheduling or demo confirmation challenges
+call_143,"The prospect indicated that decisions are made jointly with a partner, implying that both need to be involved before committing to a demo.",8,Scheduling or demo confirmation challenges
+call_143,"At the end of the call, the prospect did not commit to a specific demo time and deferred the decision until after discussing with their partner.",8,Scheduling or demo confirmation challenges
+call_144,"The prospect mentions they already have another brand working with Owner.com, suggesting prior familiarity and potential overlap.",7,Prospect confusion or lack of awareness
+call_144,The prospect does not commit to a specific demo time but agrees to a future follow-up after their current issues are resolved.,8,Scheduling or demo confirmation challenges
+call_144,"The prospect reveals that their restaurant’s Google profile is inaccurate and currently listed under the wrong information, indicating confusion about their online presence.",9,Speaking with non‑owner or unavailable decision‑maker
+call_144,The prospect indicates that the restaurant’s online information is still being corrected and implies that now may not be the right time for a deeper discussion.,9,Speaking with non‑owner or unavailable decision‑maker
+call_145,"The prospect expressed dissatisfaction with SpotHopper’s pricing, noting that AI and other apps are making similar services cheaper and implying that SpotHopper should lower its prices.",2,Pricing questions and cost concerns
+call_145,"The prospect asked detailed pricing questions about Owner.com’s model, including whether it was percentage-based or flat fee and what was included.",2,Pricing questions and cost concerns
+call_145,"The prospect revealed they had just signed paperwork for merchant services and were starting online ordering integration with SpotHopper, indicating they were already committed to another provider.",4,Already satisfied or not ready for new online ordering solutions
+call_145,The prospect indicated they were in the middle of multiple projects and requested the rep follow up in about six months after evaluating their current setup.,6,Prospect not ready to change systems
+call_146,"The prospect showed some uncertainty or hesitation when the rep explained pricing and structure, responding with 'hmm I see' and not engaging further.",1,Low prospect engagement or interest
+call_146,"The prospect mentioned they pay much less commission to third-party platforms than the typical 25%, reducing the urgency to switch to a new system.",2,Pricing questions and cost concerns
+call_146,"The prospect indicated that most of their orders come from third-party delivery platforms rather than their own website, suggesting reliance on external channels and potential hesitation to change ordering habits.",4,Already satisfied or not ready for new online ordering solutions
+call_147,"The prospect indicated that their son handles matters related to the restaurant, implying that the current speaker is not the decision-maker.",9,Speaking with non‑owner or unavailable decision‑maker
+call_148,The prospect does not commit to any next step or demo after the rep’s explanation and example.,1,Low prospect engagement or interest
+call_148,The prospect indicates they do not currently offer delivery and implies a lack of interest or perceived hassle in setting it up.,4,Already satisfied or not ready for new online ordering solutions
+call_148,"The prospect expresses that offering delivery or online ordering seems like a hassle, signaling resistance to change.",4,Already satisfied or not ready for new online ordering solutions
+call_149,"The prospect revealed that another person, not them, is responsible for website and online ordering decisions.",0,Limited capacity or no interest in online ordering
+call_149,The prospect indicated they do not remember the company 'Owner' or the previous conversation.,7,Prospect confusion or lack of awareness
+call_149,"The prospect clarified that they are no longer the owner of the restaurant, contradicting the rep’s assumption.",9,Speaking with non‑owner or unavailable decision‑maker
+call_150,"When asked about focusing on bringing orders in-house, the prospect declined to elaborate, showing disinterest or unwillingness to discuss current priorities.",1,Low prospect engagement or interest
+call_150,"The prospect indicated they were not available or not interested in engaging in a conversation at that moment, signaling hesitation or lack of time to discuss.",3,Prospect unavailable or uncertain about timing

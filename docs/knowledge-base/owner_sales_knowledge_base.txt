@@ -1,0 +1,1162 @@
+OWNER SALES KNOWLEDGE BASE
+Purpose: What Owner sales teams care about, what information to collect before calling a restaurant, and how to turn that information into useful sales context.
+
+Last updated: 2026-05-01
+
+
+============================================================
+1. OWNER: COMPANY POSITIONING
+============================================================
+
+Owner is a restaurant technology platform focused on helping independent restaurants grow their direct online business.
+
+Owner's core positioning:
+- Help independent restaurants get more online traffic.
+- Help restaurants increase direct online orders.
+- Help restaurants reduce dependence on third-party ordering and delivery marketplaces.
+- Help restaurants create more repeat customers.
+- Give local restaurants technology similar to what large national restaurant brands use.
+- Use AI, SEO, online ordering, branded apps, loyalty, marketing, and analytics to help restaurants grow profitably.
+
+The central idea:
+Owner is not just an online ordering tool. It is a growth platform for restaurants. The sales pitch should connect digital presence, ordering conversion, customer retention, and profit improvement.
+
+Good summary:
+Owner helps independent restaurants take control of their online presence, grow direct orders, build repeat customers, and keep more of the profit that might otherwise go to third-party platforms.
+
+Bad summary:
+Owner only helps restaurants take orders online.
+
+Why this distinction matters:
+A restaurant may already have Toast, DoorDash, Uber Eats, Grubhub, ChowNow, Slice, or another ordering tool. The sales question is not simply, “Do you have ordering?” The better question is, “Is your current digital setup helping you grow profitable direct orders and repeat customers?”
+
+
+============================================================
+2. OWNER'S MISSION AND SALES PHILOSOPHY
+============================================================
+
+Owner's mission can be understood as:
+Helping independent restaurants compete online with larger restaurant brands by giving them modern tools for discovery, ordering, marketing, loyalty, and customer retention.
+
+Owner cares about restaurants:
+- Owning their customer relationships.
+- Owning their digital presence.
+- Capturing orders directly instead of sending customers to third-party apps.
+- Improving profitability, not just order volume.
+- Turning one-time customers into repeat customers.
+- Making the restaurant easier to discover, order from, and return to.
+
+Important sales framing:
+Owner is not selling “a website” in isolation.
+Owner is selling a restaurant growth system.
+
+The strongest sales narrative:
+1. Customers discover restaurants online, often through Google.
+2. If the restaurant's website, menu, or ordering flow is weak, customers drop off or move to third-party apps.
+3. If customers order through third-party platforms, the restaurant may lose margin and customer data.
+4. If the restaurant does not have strong loyalty, SMS/email, app, and follow-up systems, it may fail to bring customers back.
+5. Owner helps fix this full funnel: discovery → ordering → repeat orders → profit growth.
+
+
+============================================================
+3. WHAT OWNER PROVIDES
+============================================================
+
+Owner's product offering can be grouped into four major categories.
+
+A. Grow online discovery
+Relevant product areas:
+- Restaurant website
+- Restaurant SEO
+- Online menu
+- Reviews engine
+- Listings management
+- AI-powered website optimization
+
+Sales meaning:
+Owner helps restaurants appear more professional and discoverable online, especially for local Google searches.
+
+Questions to ask:
+- Does the restaurant have a website?
+- Does the restaurant rank well on Google?
+- Is the menu easy to find?
+- Is the website mobile-friendly?
+- Are hours, location, contact info, and ordering links accurate?
+- Is the restaurant showing up for “[cuisine] near me” searches?
+- Are Google Business Profile photos and reviews strong and current?
+
+B. Grow online sales
+Relevant product areas:
+- Online ordering
+- Smart upsells
+- Delivery
+- Catering
+- Conversion-optimized ordering flow
+
+Sales meaning:
+Owner helps restaurants convert website visitors into direct orders and increase average order value.
+
+Questions to ask:
+- Is there an obvious order button?
+- How many steps does it take to place an order?
+- Is pickup available?
+- Is delivery available?
+- Is catering available?
+- Are upsells presented during checkout?
+- Does the restaurant rely on third-party marketplace ordering?
+- Is the order flow fast and mobile-friendly?
+
+C. Grow repeat orders
+Relevant product areas:
+- Branded restaurant app
+- Loyalty and rewards
+- Email marketing
+- SMS marketing
+- Push notifications
+- Marketing campaigns
+- Smart follow-ups
+
+Sales meaning:
+Owner helps restaurants bring customers back after the first order.
+
+Questions to ask:
+- Does the restaurant have a branded app?
+- Does it have a loyalty program?
+- Does it collect customer contact information?
+- Does it send SMS or email campaigns?
+- Does it have a way to re-engage customers after an order?
+- Are repeat customers being captured directly or staying inside third-party apps?
+
+D. Run the restaurant online
+Relevant product areas:
+- Owner app
+- Reporting and analytics
+- Kitchen tablet
+- POS integrations
+- Order management
+- Menu management
+- Hours updates
+- Operational alerts
+
+Sales meaning:
+Owner is not only front-end marketing. It also supports restaurant operators in managing online sales more effectively.
+
+Questions to ask:
+- What POS does the restaurant use?
+- Are online orders integrated into the POS?
+- Can the owner see sales and order performance?
+- Can the restaurant easily update menu items, prices, hours, and stock status?
+- Does the restaurant have operational visibility into pickup, delivery, and online demand?
+
+
+============================================================
+4. WHAT SALES REPS SHOULD RESEARCH BEFORE A CALL
+============================================================
+
+Owner reps should go into calls with enough context to make the conversation specific. The goal is not to collect random facts. The goal is to identify the restaurant's most likely growth pain point.
+
+The most important categories:
+
+1. Online ordering setup
+2. Third-party delivery dependence
+3. Website quality and conversion issues
+4. Google search presence
+5. Review themes
+6. Cuisine type
+7. Restaurant/business type
+8. Number of locations
+9. Existing tech stack
+10. Growth or urgency signals
+
+
+============================================================
+5. ONLINE ORDERING SETUP
+============================================================
+
+This is often the most important information.
+
+What to identify:
+- Does the restaurant have online ordering?
+- Is ordering first-party or third-party?
+- Is there a direct order button on the restaurant website?
+- Does the website send users to DoorDash, Uber Eats, Grubhub, Slice, Toast, ChowNow, Clover, Square, Olo, Popmenu, BentoBox, Wix, or another provider?
+- Is pickup available?
+- Is delivery available?
+- Is catering available?
+- Is the order page easy to access from mobile?
+- Is ordering embedded in the website or redirected externally?
+- Does the restaurant have multiple ordering links that may confuse customers?
+
+Why it matters:
+Owner's pitch is about growing direct orders and improving profitability, not merely adding an order button.
+
+How to interpret:
+- No online ordering: strong opportunity if the restaurant has takeout/delivery potential.
+- Online ordering exists but is third-party: opportunity around direct orders, margin, and customer ownership.
+- Online ordering exists but is hidden or difficult: opportunity around conversion.
+- Online ordering exists and is strong: focus on repeat orders, branded app, loyalty, SEO, and analytics.
+
+Rep opener examples:
+- “I noticed customers can order online, but the main path seems to send them to a third-party platform. Are you trying to move more customers to direct ordering?”
+- “I saw an order button, but it takes a few steps to get to checkout on mobile. Do you know how many visitors drop off before placing an order?”
+- “Are you using your current ordering system mainly to accept orders, or is it actively helping you grow repeat direct orders?”
+
+
+============================================================
+6. THIRD-PARTY DELIVERY DEPENDENCE
+============================================================
+
+What to identify:
+- Does the restaurant link prominently to DoorDash, Uber Eats, Grubhub, Slice, Postmates, or delivery marketplace pages?
+- Are third-party links more visible than direct ordering?
+- Does Google push customers toward marketplace ordering?
+- Does the restaurant have its own delivery option?
+- Are third-party logos/buttons on the restaurant homepage?
+- Does the restaurant rely on marketplace platforms for discovery, ordering, or delivery?
+
+Why it matters:
+Third-party platforms can bring volume, but restaurants may lose margin, customer data, and control over the customer relationship. Owner's sales angle is often about shifting more customers to direct ordering.
+
+How to interpret:
+- Heavy third-party presence: strong direct-ordering pitch.
+- Third-party only: strong ownership/control pitch.
+- Direct ordering exists but third-party links are more prominent: conversion and margin leakage pitch.
+- No delivery at all: evaluate whether the restaurant's cuisine and customer behavior support delivery.
+
+Rep opener examples:
+- “I saw customers are being sent to third-party ordering. Are those platforms still profitable for you, or are you trying to keep more orders direct?”
+- “When customers find you on Google, are they mostly ordering through your own site or through marketplace apps?”
+- “Are you able to remarket to customers who order through those apps, or do those relationships stay with the platform?”
+
+
+============================================================
+7. WEBSITE QUALITY AND CONVERSION ISSUES
+============================================================
+
+What to identify:
+- Does the restaurant have a website?
+- Is the website mobile-friendly?
+- Does it load quickly?
+- Is the menu easy to find?
+- Is the order button obvious?
+- Are hours, location, phone number, and address clear?
+- Is the website modern or outdated?
+- Is the menu a PDF?
+- Is the order flow broken or confusing?
+- Are there too many competing links?
+- Does the homepage communicate what the restaurant sells?
+- Does the site support multiple locations clearly?
+- Are photos high quality?
+- Does the site make the restaurant feel trustworthy?
+
+Why it matters:
+A restaurant can have great food but lose sales if customers cannot quickly find the menu, place an order, or trust the website on mobile.
+
+How to interpret:
+- No website: high opportunity for digital presence and SEO.
+- Outdated website: website modernization and conversion pitch.
+- PDF menu: poor mobile experience and SEO problem.
+- Hidden order button: conversion problem.
+- Slow or broken site: lost order opportunity.
+- Good-looking site but weak ordering: ordering conversion pitch.
+- Good ordering but weak SEO: discovery pitch.
+
+Rep opener examples:
+- “I checked your site on mobile. The food looks great, but ordering takes a few steps. Is improving online conversion a priority right now?”
+- “I noticed the menu is mainly a PDF. Do customers ever mention trouble ordering or viewing the menu on their phones?”
+- “Your restaurant has strong reviews, but the website may not be capturing as many direct orders as it could.”
+
+
+============================================================
+8. GOOGLE SEARCH PRESENCE
+============================================================
+
+What to identify:
+- Does the restaurant have a Google Business Profile?
+- What is the Google rating?
+- How many reviews does it have?
+- Are reviews recent?
+- Are photos recent and appealing?
+- Does the restaurant appear for cuisine/location searches?
+- Does the restaurant appear in the local map pack?
+- Are hours accurate?
+- Does Google show an order button?
+- Where does the Google order button send users?
+- Are there duplicate listings or inconsistent business info?
+
+Why it matters:
+Owner positions strongly around local discovery, Google traffic, SEO, and turning search demand into direct orders.
+
+How to interpret:
+- High rating + weak website: strong “capture existing demand” pitch.
+- Many reviews + third-party ordering: strong “redirect demand direct” pitch.
+- Low search visibility: SEO/discovery pitch.
+- Incorrect hours/info: listings management pitch.
+- Strong Google presence but weak retention: repeat-order pitch.
+
+Rep opener examples:
+- “When people search for your cuisine near you, are you happy with how often your restaurant shows up compared with nearby competitors?”
+- “You already have strong reviews. The question is whether enough of that traffic is turning into direct orders.”
+- “I noticed Google gives customers several ways to order. Do you know which path most customers actually use?”
+
+
+============================================================
+9. REVIEW THEMES
+============================================================
+
+Sales reps should not only look at the rating. They should extract themes from reviews.
+
+Useful positive themes:
+- Great food
+- Friendly staff
+- Fast pickup
+- Fast delivery
+- Big portions
+- Good value
+- Popular local spot
+- Strong repeat customer base
+- Great catering
+- Good family orders
+- Consistent quality
+- Fresh ingredients
+- Good packaging
+- Easy pickup
+
+Useful negative themes:
+- Slow delivery
+- Wrong orders
+- Missing items
+- Hard to order online
+- Long wait times
+- Bad phone experience
+- Confusing hours
+- Expensive delivery fees
+- Poor communication
+- Inaccurate menu
+- Website problems
+- Third-party delivery issues
+- Cold food on delivery
+- Order cancellations
+- Payment/checkout friction
+
+Why it matters:
+Reviews reveal the restaurant's real pain points and customer perception.
+
+How to interpret:
+- Food loved, ordering criticized: pitch ordering experience.
+- Long wait complaints: pitch operational visibility and smoother order handling.
+- Delivery complaints: pitch better direct delivery/order management.
+- Phone complaints: pitch online ordering to reduce phone burden.
+- Strong repeat praise: pitch loyalty/app to capture repeat behavior.
+- Catering praise: pitch direct catering orders.
+- High quality but low visibility: pitch SEO and website.
+
+Rep opener examples:
+- “I saw people love the food, but a few reviews mention ordering or wait-time friction. Is online ordering something you’re trying to improve?”
+- “A lot of customers seem to come back repeatedly. Are you doing anything now to turn those regulars into app or loyalty customers?”
+- “Some reviews mention issues that sound like third-party delivery problems. Are you trying to control more of that experience directly?”
+
+
+============================================================
+10. CUISINE TYPE
+============================================================
+
+Cuisine affects likely fit, pain points, and sales angle.
+
+High-fit cuisine types:
+- Pizza
+- Mexican
+- Thai
+- Indian
+- Chinese
+- Sushi
+- Burgers
+- Wings
+- BBQ
+- Fast casual
+- Sandwiches
+- Mediterranean
+- Korean
+- Japanese
+- Vietnamese
+- Local multi-location casual restaurants
+
+Why these are often good fits:
+- High takeout or delivery demand
+- Repeat ordering behavior
+- Customers often know what they want before ordering
+- Menu items work well for online ordering
+- Family/group orders can raise average ticket
+- Direct ordering can protect margin
+
+Cuisine-specific angles:
+
+Pizza:
+- Direct ordering
+- Repeat customers
+- Delivery margin
+- Branded app
+- Loyalty
+- Family/group orders
+
+Mexican:
+- Takeout volume
+- Family orders
+- Repeat local customers
+- Catering opportunities
+- Direct ordering and upsells
+
+Thai / Indian / Chinese:
+- Delivery and pickup volume
+- Repeat favorites
+- High online ordering potential
+- Direct reordering and loyalty
+
+Sushi:
+- Higher-ticket orders
+- Repeat customers
+- Online menu clarity
+- Pickup/delivery presentation
+- Direct ordering margin
+
+Cafe / bakery:
+- Loyalty
+- app-based repeat visits
+- pickup preorders
+- seasonal promotions
+- catering or large orders
+
+BBQ / wings / burgers:
+- Pickup
+- delivery
+- group orders
+- catering
+- game-day or event promotions
+
+Fine dining:
+- Usually lower fit unless there is meaningful takeout, catering, gift cards, private events, or strong local SEO need.
+
+Rep opener example:
+- “For restaurants like yours, especially with high repeat takeout demand, direct ordering can matter a lot because customers already know what they want.”
+
+
+============================================================
+11. RESTAURANT / BUSINESS TYPE
+============================================================
+
+What to identify:
+- Full-service restaurant
+- Quick-service restaurant
+- Fast casual
+- Food truck
+- Cafe
+- Bakery
+- Bar
+- Catering-heavy business
+- Ghost kitchen
+- Multi-location local chain
+- Franchise or franchise-like operator
+
+How business type affects pitch:
+
+Quick-service:
+- Speed
+- mobile ordering
+- repeat orders
+- operational efficiency
+
+Fast casual:
+- Direct online ordering
+- branded app
+- loyalty
+- upsells
+
+Full-service with takeout:
+- Capture direct takeout demand
+- reduce phone orders
+- improve pickup/delivery experience
+
+Cafe/bakery:
+- Loyalty
+- app-based repeat visits
+- pickup preorders
+- seasonal campaigns
+
+Catering-heavy:
+- Direct catering orders
+- larger tickets
+- repeat business accounts
+
+Bar/nightlife:
+- Lower fit unless food ordering, events, or catering are strong.
+
+Ghost kitchen:
+- Fit depends on brand control, direct ordering strategy, and delivery economics.
+
+Rep opener examples:
+- “Are most of your online orders pickup, delivery, or catering?”
+- “Do you think of online ordering as a small add-on, or is it becoming a real growth channel?”
+- “Are repeat customers ordering directly from you, or are they mostly coming through third-party apps?”
+
+
+============================================================
+12. NUMBER OF LOCATIONS
+============================================================
+
+Number of locations changes the sales strategy.
+
+1 location:
+Likely buyer: owner/operator
+Best angle:
+- Simple ROI
+- Save time
+- Grow direct orders
+- Improve website and ordering
+- Keep more profit
+- Reduce dependency on third parties
+
+2–5 locations:
+Likely buyer: owner, small operator, regional manager
+Best angle:
+- Growing brand
+- consistent online presence
+- multi-location website/app
+- centralized marketing
+- location-specific ordering
+- reporting across stores
+
+6–20 locations:
+Likely buyer: operations leader, marketing leader, ownership group
+Best angle:
+- Brand control
+- reporting
+- repeat customer growth
+- operational consistency
+- customer data ownership
+- scalable marketing
+
+20+ locations:
+Likely buyer: enterprise/franchise-style decision maker
+Best angle:
+- Integrations
+- multi-unit strategy
+- data
+- brand control
+- operational systems
+- implementation planning
+
+Rep opener examples:
+- “I saw you have three locations. Are you managing online ordering and marketing separately for each location, or is it centralized?”
+- “Do all locations use the same ordering and marketing system, or does each one handle it differently?”
+- “Are you able to see online sales performance by location?”
+
+
+============================================================
+13. EXISTING TECH STACK
+============================================================
+
+What to identify:
+- POS provider
+- Online ordering provider
+- Website provider
+- Delivery provider
+- Reservation provider
+- Loyalty provider
+- Email/SMS provider
+- Review/listings tools
+- Analytics/reporting setup
+
+Common POS systems:
+- Toast
+- Square
+- Clover
+- Lightspeed
+- Revel
+- SpotOn
+- NCR/Aloha
+- Micros
+- TouchBistro
+
+Common ordering/website systems:
+- Toast Online Ordering
+- ChowNow
+- Slice
+- Olo
+- Popmenu
+- BentoBox
+- Wix
+- Squarespace
+- WordPress
+- Clover Online Ordering
+- Square Online
+- DoorDash Storefront
+- Uber Eats
+- Grubhub
+
+Common reservation systems:
+- OpenTable
+- Resy
+- Yelp
+- Tock
+
+Why it matters:
+The rep needs to understand whether Owner is replacing a weak system, improving a fragmented system, or adding growth layers on top of an existing operational stack.
+
+Key interpretation:
+- Toast POS + Toast ordering: ask whether Toast is helping with marketing, app, loyalty, SEO, and repeat direct orders.
+- DoorDash/Uber/Grubhub ordering links: ask about margin and customer ownership.
+- Wix/Squarespace/WordPress website: ask about SEO, conversion, and ordering integration.
+- ChowNow/Slice/Popmenu/BentoBox: ask whether it is driving growth or simply hosting ordering.
+- No loyalty/SMS/email: pitch repeat-order engine.
+- No analytics: pitch visibility into online performance.
+
+Rep opener examples:
+- “Are you using Toast mostly as a POS, or are you also relying on it for marketing and repeat customer growth?”
+- “Is your current ordering system mainly processing orders, or does it actively bring customers back?”
+- “Do you know which online channel brings your most profitable orders?”
+
+
+============================================================
+14. SIGNS OF GROWTH OR URGENCY
+============================================================
+
+Sales should look for triggers that suggest the restaurant may be open to change.
+
+Growth signals:
+- New location opening
+- Recently renovated
+- New menu launch
+- Hiring delivery drivers
+- Hiring marketing or operations staff
+- Promoting catering
+- Running ads
+- Active Instagram/TikTok presence
+- Press coverage
+- New ownership
+- Franchise expansion
+- Seasonal campaign
+- Strong review growth
+- High review count but poor website
+- Strong food reputation but weak online ordering
+
+Urgency signals:
+- Recent negative reviews about ordering
+- Complaints about delivery
+- Complaints about long wait times
+- Complaints about phone orders
+- Confusing hours
+- Broken website or order link
+- Third-party platforms dominating customer path
+- Poor Google visibility compared with nearby competitors
+- Low repeat-order infrastructure
+- Menu only available as PDF
+- Multiple inconsistent menus online
+
+Why it matters:
+Urgency helps reps personalize the call and connect Owner to a current business need.
+
+Rep opener examples:
+- “I noticed you’ve been promoting catering recently. Are catering orders mostly coming by phone, or do you have a direct online flow for that?”
+- “I saw the new location announcement. Are you planning to keep online ordering and marketing centralized across locations?”
+- “Your reviews are strong, but the online order path seems less direct than it could be. Is that something you’ve looked at recently?”
+
+
+============================================================
+15. HOW TO SCORE RESTAURANT FIT FOR OWNER
+============================================================
+
+Use the following scoring logic to prioritize leads.
+
+High-fit indicators:
+- Independent restaurant
+- Strong takeout or delivery demand
+- Existing customer love/reviews
+- Weak or outdated website
+- No direct online ordering
+- Ordering depends on third-party marketplaces
+- Multiple locations or growth plans
+- High repeat purchase potential
+- Cuisine works well for online ordering
+- No strong loyalty/app/email/SMS system
+- Google presence exists but conversion path is weak
+- Restaurant promotes catering or group orders
+
+Medium-fit indicators:
+- Has online ordering but unclear growth tools
+- Has a decent website but weak SEO
+- Has loyalty but no branded app
+- Has third-party delivery but also direct ordering
+- Full-service restaurant with some takeout
+- Cafe/bakery with repeat customer potential
+
+Low-fit indicators:
+- Fine dining with little/no takeout
+- Bar with minimal food sales
+- Restaurant already has strong direct ordering, app, loyalty, SEO, and marketing
+- Very small business with little online demand
+- Closed, temporarily closed, or inconsistent operations
+- Franchise with strict corporate technology requirements
+
+Simple rating:
+A-fit:
+Strong takeout/delivery + weak direct ordering + good reviews + independent operator.
+
+B-fit:
+Some online ordering + clear opportunity in SEO, repeat orders, or conversion.
+
+C-fit:
+Unclear takeout demand or already has many strong tools.
+
+D-fit:
+Little relevance to online ordering or not operationally suitable.
+
+
+============================================================
+16. WHAT “ONLINE PRESENCE” MEANS FOR OWNER SALES
+============================================================
+
+Online presence means the restaurant's full digital footprint, not just whether it has a website.
+
+It includes:
+- Website
+- Google Business Profile
+- Google ranking
+- Google reviews
+- Online menu
+- Order links
+- Third-party marketplace pages
+- Social media
+- Photos
+- Business listings
+- SEO
+- Mobile experience
+- Customer reviews
+- Branded app
+- Loyalty/rewards
+- Email/SMS capture
+- Customer retention channels
+
+Why it matters:
+Most customers interact with a restaurant online before ordering or visiting. If the online presence is weak, confusing, or controlled by third-party platforms, the restaurant may lose direct sales and repeat customer relationships.
+
+
+============================================================
+17. ORDERING PROVIDER VS DELIVERY PROVIDER
+============================================================
+
+Ordering provider:
+The system that lets customers place an order online.
+
+Examples:
+- Owner
+- Toast Online Ordering
+- ChowNow
+- Slice
+- Olo
+- Square Online
+- Clover Online Ordering
+- Popmenu
+- DoorDash Storefront
+
+Delivery provider:
+The system or service that physically gets food from the restaurant to the customer.
+
+Examples:
+- DoorDash drivers
+- Uber Eats drivers
+- Grubhub drivers
+- In-house drivers
+- Relay
+- Nash
+- Shipday
+
+Why this matters:
+A restaurant may use one company for online ordering and another for delivery. Owner's value often sits around direct ordering, customer ownership, marketing, and repeat orders, while delivery fulfillment may be handled separately or integrated.
+
+
+============================================================
+18. POS: WHAT IT MEANS AND WHY SALES CARES
+============================================================
+
+POS means Point of Sale.
+
+It is the system a restaurant uses to process transactions and manage orders.
+
+Common POS systems:
+- Toast
+- Square
+- Clover
+- Lightspeed
+- Revel
+- SpotOn
+- Micros
+- Aloha
+- TouchBistro
+
+Why sales cares:
+- Online orders often need to flow into the POS.
+- POS choice affects integrations.
+- Some restaurants rely on POS companies for ordering, loyalty, and marketing.
+- A rep should understand whether the restaurant's POS is only operational or also being used as a growth tool.
+
+Useful question:
+“Are you using your POS mainly to run transactions, or are you also using it to grow repeat online orders?”
+
+
+============================================================
+19. HOW TO TURN RESEARCH INTO A SALES ANGLE
+============================================================
+
+Do not simply list facts. Convert facts into a hypothesis.
+
+Format:
+Observation → Possible pain point → Sales angle → Discovery question
+
+Example 1:
+Observation:
+The restaurant has great Google reviews but sends online orders to DoorDash.
+
+Possible pain point:
+They have customer demand but may be losing margin and customer data to third-party platforms.
+
+Sales angle:
+Owner can help capture more direct orders and repeat customers.
+
+Discovery question:
+“Are you trying to move more customers from third-party ordering to direct ordering?”
+
+Example 2:
+Observation:
+The restaurant has a PDF menu and no visible order button.
+
+Possible pain point:
+Mobile customers may drop off before ordering.
+
+Sales angle:
+Owner can improve website conversion and online ordering.
+
+Discovery question:
+“Do you know how many mobile visitors actually make it from your menu to checkout?”
+
+Example 3:
+Observation:
+The restaurant has multiple locations but inconsistent websites/order links.
+
+Possible pain point:
+The brand lacks centralized online ordering and marketing.
+
+Sales angle:
+Owner can support multi-location consistency and reporting.
+
+Discovery question:
+“Are you managing ordering and marketing separately for each location, or centrally?”
+
+Example 4:
+Observation:
+Reviews mention slow phone service and long wait times.
+
+Possible pain point:
+Phone ordering may be creating operational friction.
+
+Sales angle:
+Owner can shift orders online and reduce phone burden.
+
+Discovery question:
+“Do phone orders slow your staff down during peak hours?”
+
+
+============================================================
+20. CALL PREP TEMPLATE
+============================================================
+
+Restaurant name:
+Location:
+Cuisine:
+Business type:
+Number of locations:
+
+Google presence:
+- Rating:
+- Review count:
+- Review recency:
+- Search visibility:
+- Google order link destination:
+
+Website:
+- Website exists? yes/no
+- Mobile-friendly? yes/no/unclear
+- Menu format:
+- Order button visible? yes/no
+- Ordering flow:
+- Website quality notes:
+
+Ordering setup:
+- Direct ordering? yes/no/unclear
+- Third-party ordering? yes/no/unclear
+- Provider(s):
+- Pickup available?
+- Delivery available?
+- Catering available?
+- Order flow issues:
+
+Third-party dependence:
+- DoorDash:
+- Uber Eats:
+- Grubhub:
+- Slice:
+- Other:
+- Third-party more prominent than direct ordering? yes/no/unclear
+
+Tech stack:
+- POS:
+- Website provider:
+- Ordering provider:
+- Delivery provider:
+- Reservation provider:
+- Loyalty/email/SMS:
+
+Review themes:
+Positive:
+- 
+- 
+- 
+
+Negative:
+- 
+- 
+- 
+
+Growth/urgency signals:
+- 
+- 
+- 
+
+Likely pain point:
+- 
+
+Best Owner angle:
+- 
+
+Suggested opener:
+- 
+
+Discovery questions:
+1.
+2.
+3.
+
+
+============================================================
+21. COMMON SALES ANGLES BY SITUATION
+============================================================
+
+Situation: No website
+Angle:
+“You may be missing Google traffic and direct online orders.”
+
+Situation: Website exists but no order button
+Angle:
+“Customers may be interested but not converting.”
+
+Situation: Order button links to DoorDash/Uber/Grubhub
+Angle:
+“You may be sending existing customer demand to third-party platforms.”
+
+Situation: Strong reviews but weak website
+Angle:
+“You already have demand; the opportunity is capturing more of it directly.”
+
+Situation: High review count but poor Google ranking
+Angle:
+“SEO and local discovery may be leaving orders on the table.”
+
+Situation: Many complaints about delivery
+Angle:
+“The customer experience may be controlled by third-party delivery instead of the restaurant.”
+
+Situation: Many complaints about phone ordering
+Angle:
+“Online ordering could reduce staff burden and missed orders.”
+
+Situation: Multi-location restaurant with inconsistent digital setup
+Angle:
+“Centralized online ordering, marketing, app, and reporting can help the brand scale.”
+
+Situation: Restaurant promotes catering
+Angle:
+“Catering orders are high-value and should be captured directly.”
+
+Situation: Restaurant has repeat customers but no loyalty/app
+Angle:
+“Owner can help turn regulars into direct repeat customers.”
+
+
+============================================================
+22. CUSTOMER FEEDBACK CATEGORIES RELEVANT TO RESTAURANTS
+============================================================
+
+Useful review/feedback categories to extract:
+
+Food quality:
+- Taste
+- freshness
+- temperature
+- consistency
+- portion size
+- value for money
+- presentation
+- packaging
+
+Service quality:
+- Friendliness
+- professionalism
+- attentiveness
+- problem resolution
+- staff speed
+
+Ordering experience:
+- Ease of online ordering
+- checkout friction
+- website clarity
+- app experience
+- menu accuracy
+- payment issues
+- promo code issues
+
+Pickup experience:
+- Wait time
+- order readiness
+- pickup organization
+- signage
+- staff handoff
+
+Delivery experience:
+- Delivery speed
+- food temperature
+- missing items
+- driver issues
+- delivery fees
+- third-party platform problems
+
+Operational accuracy:
+- Wrong items
+- missing items
+- substitutions
+- allergy/special instruction handling
+
+Restaurant environment:
+- Cleanliness
+- atmosphere
+- seating
+- noise
+- restroom condition
+
+Value and pricing:
+- Perceived price fairness
+- delivery fees
+- portion-to-price ratio
+- hidden fees
+
+Loyalty and repeat behavior:
+- Customers saying they come often
+- customers recommending the restaurant
+- praise for consistency
+- interest in rewards or discounts
+
+Catering/group orders:
+- Large order quality
+- reliability
+- packaging
+- timing
+- communication
+
+Why these matter:
+Different feedback categories lead to different Owner sales angles. For example:
+- Ordering complaints → online ordering/conversion pitch
+- Delivery complaints → direct delivery/order control pitch
+- Repeat customer praise → loyalty/app pitch
+- Strong food praise + weak website → capture demand pitch
+- Catering praise → direct catering order pitch
+
+
+============================================================
+23. BEST DISCOVERY QUESTIONS FOR OWNER SALES
+============================================================
+
+Direct ordering:
+- “What percentage of online orders come through your own website versus third-party apps?”
+- “Are you trying to move more customers to direct ordering?”
+- “Do you feel like your current ordering system is helping you grow, or just processing orders?”
+
+Profitability:
+- “Are third-party commissions still profitable for you?”
+- “Do you know which order channels are most profitable?”
+- “Are you able to keep customer data from online orders?”
+
+Conversion:
+- “Do you know how many website visitors turn into orders?”
+- “Where do customers usually drop off?”
+- “Is the order button easy for customers to find on mobile?”
+
+Repeat customers:
+- “How are you bringing customers back after their first order?”
+- “Do you have a loyalty program or branded app?”
+- “Are you using SMS, email, or push notifications to drive repeat orders?”
+
+Google/SEO:
+- “Are you happy with how you rank when people search for your cuisine nearby?”
+- “Do you know how much traffic your website gets from Google?”
+- “Are your Google visitors ordering directly from you?”
+
+Operations:
+- “Are online orders easy for your staff to manage?”
+- “Do online orders flow into your POS?”
+- “Do phone orders slow down your team during rush hours?”
+
+Multi-location:
+- “Are you managing online ordering separately for each location?”
+- “Can you compare online sales across locations?”
+- “Is your marketing centralized or location-by-location?”
+
+
+============================================================
+24. WHAT NOT TO DO IN SALES RESEARCH
+============================================================
+
+Do not only collect surface-level facts:
+- “They have a website.”
+- “They have 4.3 stars.”
+- “They use DoorDash.”
+- “They sell pizza.”
+
+Instead, interpret the business meaning:
+- “They have strong demand but weak direct conversion.”
+- “They may be losing repeat customer data to third-party apps.”
+- “Their reviews suggest food quality is strong, so the growth bottleneck may be ordering experience.”
+- “Their multi-location setup suggests a need for centralized online ordering and reporting.”
+
+Do not assume:
+- A restaurant with online ordering has good online ordering.
+- A restaurant with DoorDash does not want direct orders.
+- A restaurant with a good website has good SEO.
+- A restaurant with many reviews has strong customer retention.
+- A restaurant with Toast already has solved marketing and loyalty.
+
+Do not lead with criticism:
+Bad:
+“Your website is bad.”
+Better:
+“I noticed there may be an opportunity to make direct ordering easier for customers on mobile.”
+
+Bad:
+“You rely too much on DoorDash.”
+Better:
+“I saw customers have a few third-party ordering options. Are you trying to shift more repeat customers to direct ordering?”
+
+
+============================================================
+25. ONE-SENTENCE SUMMARY FOR FUTURE AI SYSTEMS
+============================================================
+
+When analyzing a restaurant for Owner sales, focus on whether the restaurant is capturing customer demand directly and profitably across discovery, website experience, online ordering, delivery, loyalty, repeat marketing, and operational visibility.
+

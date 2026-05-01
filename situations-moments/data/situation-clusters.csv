@@ -1,0 +1,11 @@
+cluster_id,situation_name,count,proceed_count,proceed_rate
+3,Prospect unavailable or uncertain about timing,87,51,0.5862
+1,Low prospect engagement or interest,61,23,0.3770
+5,Prospect confusion about caller identity and purpose,51,43,0.8431
+6,Prospect not ready to change systems,51,29,0.5686
+8,Scheduling or demo confirmation challenges,46,25,0.5435
+4,Already satisfied or not ready for new online ordering solutions,44,26,0.5909
+9,Speaking with non‑owner or unavailable decision‑maker,42,33,0.7857
+0,Limited capacity or no interest in online ordering,36,15,0.4167
+7,Prospect confusion or lack of awareness,27,20,0.7407
+2,Pricing questions and cost concerns,19,15,0.7895

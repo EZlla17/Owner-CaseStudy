@@ -1,0 +1,139 @@
+restaurant_id,name,city,state,cuisine_type,business_type,website_url,num_locations,_LOADED_AT,_LOADED_BY
+rest_001,Thai Papaya,Hampton,VA,unknown,full_service,thaipapayava.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_002,Pablo's Mexican Restaurant,Shakopee,MN,Mexican,full_service,pablosmexican.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_003,Tacos Cinco de Mayo,St James,NY,Mexican,quick_service,evasxcincodemayo.com,21,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_004,Nonna Bella's Pizzeria,Russellville,AR,Italian,full_service,nonnabellapizza.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_005,Jolene's Thai Cuisine,Brownwood,TX,Thai,full_service,jolenethaicuisine.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_006,El Fresco Mexican Grill,Chantilly,VA,Mexican,quick_service,elfresco.com,4,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_008,Washington Burrito,Everett,WA,Mexican,full_service,washingtonburrito.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_009,Oh Mmm Gyros,Katy,TX,Mediterranean,full_service,ohmmmgyroskaty.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_012,The Northern Pines Restaurant,Flagstaff,AZ,American,full_service,thenorthernpines.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_013,Royal Spice,Longmeadow,MA,Indian,full_service,royalspicema.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_014,Seahouse Fish & Chicken - Fried Chicken Takeaway,Jackson,MI,American,full_service,seahousejackson.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_016,No. 9 Grill,Cambridge City,IN,unknown,full_service,no9grill.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_017,La Catrachada Mexican & Latino Grill,Sevierville,TN,Mexican,full_service,lacatrachadalatinogrill.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_018,Nantuckets,Port Jefferson,NY,unknown,full_service,nantucketsportjefferson.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_019,Pannie-George's Kitchen,Auburn,AL,Southern,full_service,panniegeorgeskitchen.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_020,Rocco's Pizza,Shoreview,MN,American,full_service,roccospizza.com,7,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_021,New York Pizza,Stanardsville,VA,Italian,full_service,newyorkpizzainva.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_022,Old Soul @ 40 Acres,Sacramento,CA,unknown,quick_service,oldsoulco.com,5,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_023,Pat's Pizza & Bistro Philadelphia Pike,Wilmington,DE,unknown,unknown,patsbistro.com,5,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_024,Carolina's Mexican Food,Phoenix,AZ,Mexican,quick_service,carolinasmexicanfood.com,6,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_025,DragonEats,San Francisco,CA,Vietnamese,full_service,dragoneats.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_026,El Cerro Tacos,Jacksonville,NC,Mexican,full_service,elcerrotacos.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_027,Emoji Burger,Jackson Heights,NY,American,full_service,emojiburgerny.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_028,Gansett Wraps,Storrs Center,CT,Mediterranean,quick_service,gansettwraps.com,6,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_029,El Bruno's,Cuba,NM,Mexican,full_service,elbrunonm.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_030,Toscanas Pizzeria & Restaurant,Bridgewater,NJ,Italian,full_service,toscanaspizzabridgewater.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_031,Che Figata Italian Bistro,Coxsackie,NY,Italian,full_service,chefigatabistro.org,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_032,Roman Pizzeria & Restaurant,Blairstown,NJ,unknown,full_service,romanpizzablairstown.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_033,No 1 Restaurant,Williamsburg,VA,unknown,full_service,no1williamsburg.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_034,Lal Qilla,Norcross,GA,Indian,full_service,lalqilasns.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_035,Dos Chiles Grandes,Boyd,TX,unknown,full_service,doschiles.net,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_036,Giovanni's Brooklyn Eats,Brooklyn,NY,Italian,full_service,giovannisbrooklyneats.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_037,Main Street Pizza,Upton,MA,unknown,full_service,ordermainstreetpizza.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_038,Sabai Sabai,Middlebury,VT,unknown,full_service,sabaisabaithai.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_039,The Juice Somm,Lauderdale-by-the-Sea,FL,American,full_service,juicesomm.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_040,La Casa Lopez,Moscow,ID,Mexican,full_service,lacasalopezrestaurant.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_041,Root 2 Rise NY,Pleasantville,NY,American,full_service,root2riseny.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_042,Sapporo Ramen,Cambridge,MA,unknown,full_service,sappororamen-ma.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_043,The High Hat,St Paul,MN,unknown,full_service,thehighhatmn.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_044,Joe's Pizza & Subs,Bluefield,VA,Italian,full_service,joespizzasubsmenu.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_045,The Pancake House & Grill,Norfolk,VA,American (New),full_service,thepancakehousegrill.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_046,Ruah Cafe - The Woodlands The Woodlands,Magnolia,TX,American,cafe,ruahcafe.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_047,Mr. Burger,Guymon,OK,Mexican,full_service,mrburgerfranchise.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_048,Shoreline Diner & Vegetarian Enclave,Guilford,CT,American,full_service,shorelinediner.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_049,Huntington Ramen and Sushi,Fullerton,CA,unknown,full_service,huntingtonramenfullerton.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_050,Monte Carlo Pizzeria,Gilbertsville,PA,Italian,full_service,montecarlopizzamenu.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_052,Grillers Puerto Rico,Orlando,FL,Caribbean,quick_service,grillerspuertorico.com,5,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_053,Giorgio's Pizza & Subs,Exton,PA,Italian,full_service,giorgiospizzaandsubs.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_054,Breakfast Station,Brooksville,FL,American,quick_service,breakfaststationcentral.com,23,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_055,Ella Ray's Cafe,District Heights,MD,Southern,full_service,ellarayscafe.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_056,Pedalers Fork,Calabasas,CA,American,full_service,pedalersfork.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_057,No Manches Mexican Grill 2 Vernon Hills,Vernon Hills,IL,Mexican,full_service,nomanchesmexicangrill.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_058,Hillcrest Restaurant,Las Vegas,NM,Mexican,full_service,hillcrestrestaurant.shop,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_059,Gyro King & Wings,Toledo,OH,Greek,full_service,gyrokingandwingstoledooh.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_060,Ki' Mexico,Shreveport,LA,Mexican,full_service,kimexico.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_061,Brooklyn Crab,Brooklyn,NY,Southern,full_service,brooklyncrab.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_062,The Fork At Skagit Bay,La Conner,WA,Southern,full_service,theforkatskagitbay.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_063,Aroma of India,Bakersfield,CA,Indian,full_service,aromasofindia.us,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_064,Grape Leaves Restaurant,Oak Park,IL,Mediterranean,full_service,grapeleaves.us,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_065,Huntington Ramen and Sushi,Fullerton,CA,unknown,full_service,huntingtonramenfullerton.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_066,Thai Papaya,Hampton,VA,unknown,full_service,thaipapayava.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_067,Bollywood Grill,York,PA,Indian,full_service,bollywoodingrill.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_069,Krispy Krunchy Chicken,Wilmington,DE,American,quick_service,krispykrunchy.com,3663,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_070,Fusion Kitchen,Brooklyn,NY,Indian,full_service,fusionkitchenindianrestaurant.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_071,Dos Amigos Mexican Restaurant,West Lafayette,IN,Mexican,full_service,dosamigosin.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_074,The Cace Kitchen,Longview,TX,American,full_service,thecacekitchen.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_075,B-Side Grill,New Paltz,NY,American,full_service,bsidegrill.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_077,Village Pizza 11102 Main St,Cincinnati,OH,unknown,full_service,villageza.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_078,King Wing,Hillsborough Twp,NJ,American,full_service,kingwingonline.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_080,Jacob's 24 Hour Burgers,Taft,CA,Mexican,full_service,jacobsburger.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_081,The Pharmacy Burger Parlor & Beer Garden,Nashville,TN,American,full_service,thepharmacyburger.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_082,Curry House,Wake Forest,NC,Indian,full_service,curryhousenc.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_083,Kenny's Burger Joint,Plano,TX,American,full_service,kennysburgerjoint.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_084,C&C Asian Garden,College Station,TX,unknown,full_service,ccasiangarden.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_085,Bhimas Food Truck (Foodtruck Ops closed for Winter. Open for only Catering),Monroe Township,NJ,unknown,unknown,gobhimas.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_086,Pho Bay Georgetown,Georgetown,CO,Vietnamese,full_service,thephobay.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_087,Sugarboy Bakery,Bronx,NY,unknown,bakery,sugarboybakery.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_088,2721 W International Speedway Blvd,Daytona Beach,FL,unknown,unknown,nan,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_089,Ginger Exchange,Watertown,MA,Sushi,quick_service,gingerexchange.com,7,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_090,Java Burrito Company,Savannah,GA,Mexican,full_service,javaburrito.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_091,Fun Noodle Bar,Wichita Falls,TX,unknown,full_service,funnoodlewichitafalls.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_092,Baan Thai Restaurant,Manhattan,KS,Thai,full_service,baanthaikansas.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_093,Pal's Indian Cuisine,Grand Rapids,MI,Indian,full_service,palsindiancuisine.org,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_094,Out & Out,Cedarburg,WI,American,quick_service,outandoutcustard.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_095,Ventura's Offshore Cafe,Northfield,NJ,American,full_service,venturascafe.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_096,Evergreen Indian Restaurant,Eugene,OR,American,full_service,evergreenindianrestaurant.com,4,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_097,Eddie's - Chisolm Creek,Oklahoma City,OK,unknown,full_service,eddiesdining.com,5,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_098,Pizza Bono,Plattsburgh,NY,unknown,full_service,pizza-bono.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_099,Chan's Restaurant,Cape Girardeau,MO,Mexican,full_service,chanscape.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_100,La Cocina Mexican Restaurant,Acworth,GA,Mexican,full_service,mylacocina.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_101,Basque Tapas Bar,Piermont,NY,Global Food,full_service,basquetapasbar.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_102,Square Lotus,Bellevue,WA,unknown,full_service,squarelotus.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_103,Treva,West Hartford,CT,unknown,full_service,trevact.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_104,Taroko,Redding,CA,Korean,full_service,tarokoredding.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_105,Vince's Restaurant & Pizzeria,Monroe,WI,Italian,full_service,vincesrestaurantmonroe.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_106,Chef's Cut Pizzeria,Louisville,KY,Italian,full_service,chefscutpizza.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_107,Mi Mexico Lindo,Clifton Park,NY,unknown,full_service,mimexicolindotaco.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_108,Cheese N Stuff,Phoenix,AZ,American,full_service,cheesenstuffdeli.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_109,Square Lotus,Bellevue,WA,unknown,full_service,squarelotus.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_111,Cebu Bar & Bistro,Brooklyn,NY,American,full_service,cebubrooklyn.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_112,East Coast Pizza,Riverview,FL,Italian,full_service,eastcoastpizza.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_113,Pappardella,New York,NY,Italian,full_service,pappardella.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_114,Mario's Pizza Cafe,Allentown,PA,Italian,full_service,mariosallentown.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_115,Poor Boy Restaurant,Kankakee,IL,Greek,full_service,poorboy-restaurant.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_116,Eastern Chinese Restaurant,Winchester,VA,Chinese,full_service,easternchinesecuisine.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_117,Soba Sushi and Noodles,Weaverville,NC,unknown,full_service,sobaweaverville.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_118,LA Lasagna Co,Northridge,CA,unknown,full_service,lalasagnacompany.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_119,La Cocina,Richmond,TX,unknown,full_service,lacocinarestaurant.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_120,Mt. Everest India's Cuisine,Las Vegas,NV,unknown,full_service,mteverestcuisine.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_121,Little Tibet,Madison,WI,Chinese,full_service,littletibetmadison.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_122,De Islands,Rosedale,NY,Caribbean,full_service,deislands.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_123,Ichi 18 Teriyaki,Vancouver,WA,unknown,full_service,ichi18teriyaki.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_124,Kin Len Thai Night Bites,Seattle,WA,Thai,full_service,kin-len.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_125,Ayawaska Petaluma,Petaluma,CA,Peruvian,full_service,ayawaskasf.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_126,Pizza Delicious,New Orleans,LA,Italian,full_service,pizzadelicious.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_127,Aticha Thai Cuisine,Williamsburg,VA,unknown,full_service,atichathai.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_128,India's House,Columbia,MO,unknown,full_service,indiashousecomo.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_129,Chef's Cut Pizzeria,Louisville,KY,Italian,full_service,chefscutpizza.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_130,Shorty's Diner,Williamsburg,VA,American,full_service,shortysdinerva.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_131,Terror Tacos,St Louis,MO,Mexican,full_service,terrortacos.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_132,Ray's Pizza,Irvine,CA,Italian,full_service,rayspizzainc.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_133,River Street Grill,Mattapan,MA,unknown,full_service,riverstreetgrill.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_134,Singha Thai Cuisine,Moab,UT,unknown,full_service,singhathaimoab.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_135,Spud Ranch,New Braunfels,TX,American,full_service,spudranch.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_137,Costa Pacifica,San Antonio,TX,unknown,full_service,costapacificausa.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_138,Yume Japanese Cuisine,Lodi,CA,unknown,full_service,yumelodi.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_139,La Cosina Mexicana,Queensbury,NY,Mexican,full_service,lacosinamexicanarestaurant.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_140,Iacono's Pizza & Restaurant,Columbus,OH,Italian,full_service,iaconos.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_141,Roma Pizza,Blacksburg,VA,Italian,full_service,romablacksburg.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_142,Sazon Latino & Catering,Santa Barbara,CA,unknown,full_service,sazonlatinorestaurante.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_143,Sal's Italian Ristorante and Pizzeria,Exton,PA,unknown,full_service,salspizzaexton.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_144,Los Portales,Mountain View,CA,Mexican,full_service,mvlosportales.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_145,Tiki Taco,North Charleston,SC,Mexican,full_service,itstikitimeyall.com,5,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_146,Rakuten Ramen,Azusa,CA,unknown,full_service,rakutenramen.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_147,Tere's Mexican Grill,Studio City,CA,Mexican,full_service,teresmexicangrill.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_148,SoupFarm,Missoula,MT,unknown,full_service,soupfarmtogo.com,1,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_149,Oco Time,Ukiah,CA,Japanese,full_service,ocotime.com,2,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER
+rest_150,Hector's Mariscos,Chula Vista,CA,Mexican,full_service,hectorsmariscos.com,3,2026-04-15 18:42:57.920,CLAUDE_SNOWFLAKE_AI_USER

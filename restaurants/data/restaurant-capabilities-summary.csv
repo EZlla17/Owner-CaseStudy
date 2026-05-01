@@ -1,0 +1,139 @@
+restaurant_id,name,website_url,has_online_ordering,has_pickup,has_catering
+rest_001,Thai Papaya,thaipapayava.com,yes,yes,yes
+rest_002,Pablo's Mexican Restaurant,pablosmexican.com,yes,yes,yes
+rest_003,Tacos Cinco de Mayo,evasxcincodemayo.com,unknown,unknown,unknown
+rest_004,Nonna Bella's Pizzeria,nonnabellapizza.com,yes,yes,no
+rest_005,Jolene's Thai Cuisine,jolenethaicuisine.com,yes,no,no
+rest_006,El Fresco Mexican Grill,elfresco.com,yes,yes,yes
+rest_008,Washington Burrito,washingtonburrito.com,yes,yes,no
+rest_009,Oh Mmm Gyros,ohmmmgyroskaty.com,yes,yes,yes
+rest_012,The Northern Pines Restaurant,thenorthernpines.com,yes,no,no
+rest_013,Royal Spice,royalspicema.com,yes,no,no
+rest_014,Seahouse Fish & Chicken - Fried Chicken Takeaway,seahousejackson.com,yes,yes,no
+rest_016,No. 9 Grill,no9grill.com,no,yes,no
+rest_017,La Catrachada Mexican & Latino Grill,lacatrachadalatinogrill.com,yes,yes,yes
+rest_018,Nantuckets,nantucketsportjefferson.com,yes,no,yes
+rest_019,Pannie-George's Kitchen,panniegeorgeskitchen.com,no,no,no
+rest_020,Rocco's Pizza,roccospizza.com,yes,no,yes
+rest_021,New York Pizza,newyorkpizzainva.com,yes,no,no
+rest_022,Old Soul @ 40 Acres,oldsoulco.com,yes,no,yes
+rest_023,Pat's Pizza & Bistro Philadelphia Pike,patsbistro.com,yes,no,no
+rest_024,Carolina's Mexican Food,carolinasmexicanfood.com,yes,yes,yes
+rest_025,DragonEats,dragoneats.com,unknown,unknown,unknown
+rest_026,El Cerro Tacos,elcerrotacos.com,unknown,unknown,unknown
+rest_027,Emoji Burger,emojiburgerny.com,yes,yes,no
+rest_028,Gansett Wraps,gansettwraps.com,yes,no,yes
+rest_029,El Bruno's,elbrunonm.com,no,no,yes
+rest_030,Toscanas Pizzeria & Restaurant,toscanaspizzabridgewater.com,yes,yes,yes
+rest_031,Che Figata Italian Bistro,chefigatabistro.org,no,no,yes
+rest_032,Roman Pizzeria & Restaurant,romanpizzablairstown.com,no,no,no
+rest_033,No 1 Restaurant,no1williamsburg.com,yes,yes,no
+rest_034,Lal Qilla,lalqilasns.com,unknown,unknown,unknown
+rest_035,Dos Chiles Grandes,doschiles.net,no,no,no
+rest_036,Giovanni's Brooklyn Eats,giovannisbrooklyneats.com,yes,no,yes
+rest_037,Main Street Pizza,ordermainstreetpizza.com,yes,yes,no
+rest_038,Sabai Sabai,sabaisabaithai.com,no,no,no
+rest_039,The Juice Somm,juicesomm.com,unknown,unknown,unknown
+rest_040,La Casa Lopez,lacasalopezrestaurant.com,no,yes,yes
+rest_041,Root 2 Rise NY,root2riseny.com,no,no,no
+rest_042,Sapporo Ramen,sappororamen-ma.com,unknown,unknown,unknown
+rest_043,The High Hat,thehighhatmn.com,yes,no,no
+rest_044,Joe's Pizza & Subs,joespizzasubsmenu.com,yes,yes,no
+rest_045,The Pancake House & Grill,thepancakehousegrill.com,unknown,unknown,unknown
+rest_046,Ruah Cafe - The Woodlands The Woodlands,ruahcafe.com,unknown,unknown,unknown
+rest_047,Mr. Burger,mrburgerfranchise.com,unknown,unknown,unknown
+rest_048,Shoreline Diner & Vegetarian Enclave,shorelinediner.com,yes,no,no
+rest_049,Huntington Ramen and Sushi,huntingtonramenfullerton.com,yes,yes,no
+rest_050,Monte Carlo Pizzeria,montecarlopizzamenu.com,yes,yes,no
+rest_052,Grillers Puerto Rico,grillerspuertorico.com,no,no,no
+rest_053,Giorgio's Pizza & Subs,giorgiospizzaandsubs.com,yes,yes,no
+rest_054,Breakfast Station,breakfaststationcentral.com,unknown,unknown,unknown
+rest_055,Ella Ray's Cafe,ellarayscafe.com,yes,yes,yes
+rest_056,Pedalers Fork,pedalersfork.com,yes,yes,yes
+rest_057,No Manches Mexican Grill 2 Vernon Hills,nomanchesmexicangrill.com,yes,no,yes
+rest_058,Hillcrest Restaurant,hillcrestrestaurant.shop,no,no,no
+rest_059,Gyro King & Wings,gyrokingandwingstoledooh.com,yes,yes,no
+rest_060,Ki' Mexico,kimexico.com,yes,no,yes
+rest_061,Brooklyn Crab,brooklyncrab.com,unknown,unknown,unknown
+rest_062,The Fork At Skagit Bay,theforkatskagitbay.com,no,no,no
+rest_063,Aroma of India,aromasofindia.us,yes,yes,yes
+rest_064,Grape Leaves Restaurant,grapeleaves.us,yes,no,yes
+rest_065,Huntington Ramen and Sushi,huntingtonramenfullerton.com,yes,yes,no
+rest_066,Thai Papaya,thaipapayava.com,yes,yes,yes
+rest_067,Bollywood Grill,bollywoodingrill.com,yes,yes,yes
+rest_069,Krispy Krunchy Chicken,krispykrunchy.com,yes,no,no
+rest_070,Fusion Kitchen,fusionkitchenindianrestaurant.com,yes,yes,no
+rest_071,Dos Amigos Mexican Restaurant,dosamigosin.com,yes,yes,no
+rest_074,The Cace Kitchen,thecacekitchen.com,unknown,unknown,unknown
+rest_075,B-Side Grill,bsidegrill.com,yes,no,no
+rest_077,Village Pizza 11102 Main St,villageza.com,unknown,unknown,unknown
+rest_078,King Wing,kingwingonline.com,yes,yes,no
+rest_080,Jacob's 24 Hour Burgers,jacobsburger.com,unknown,unknown,unknown
+rest_081,The Pharmacy Burger Parlor & Beer Garden,thepharmacyburger.com,yes,yes,yes
+rest_082,Curry House,curryhousenc.com,no,no,no
+rest_083,Kenny's Burger Joint,kennysburgerjoint.com,yes,no,no
+rest_084,C&C Asian Garden,ccasiangarden.com,unknown,unknown,unknown
+rest_085,Bhimas Food Truck (Foodtruck Ops closed for Winter. Open for only Catering),gobhimas.com,no,no,yes
+rest_086,Pho Bay Georgetown,thephobay.com,unknown,unknown,unknown
+rest_087,Sugarboy Bakery,sugarboybakery.com,yes,yes,no
+rest_088,2721 W International Speedway Blvd,nan,unknown,unknown,unknown
+rest_089,Ginger Exchange,gingerexchange.com,yes,no,no
+rest_090,Java Burrito Company,javaburrito.com,unknown,unknown,unknown
+rest_091,Fun Noodle Bar,funnoodlewichitafalls.com,yes,no,no
+rest_092,Baan Thai Restaurant,baanthaikansas.com,unknown,unknown,unknown
+rest_093,Pal's Indian Cuisine,palsindiancuisine.org,yes,yes,yes
+rest_094,Out & Out,outandoutcustard.com,unknown,unknown,unknown
+rest_095,Ventura's Offshore Cafe,venturascafe.com,yes,yes,yes
+rest_096,Evergreen Indian Restaurant,evergreenindianrestaurant.com,no,no,no
+rest_097,Eddie's - Chisolm Creek,eddiesdining.com,no,no,yes
+rest_098,Pizza Bono,pizza-bono.com,yes,no,no
+rest_099,Chan's Restaurant,chanscape.com,yes,no,no
+rest_100,La Cocina Mexican Restaurant,mylacocina.com,unknown,unknown,unknown
+rest_101,Basque Tapas Bar,basquetapasbar.com,no,no,no
+rest_102,Square Lotus,squarelotus.com,no,no,no
+rest_103,Treva,trevact.com,yes,yes,yes
+rest_104,Taroko,tarokoredding.com,no,no,no
+rest_105,Vince's Restaurant & Pizzeria,vincesrestaurantmonroe.com,yes,yes,yes
+rest_106,Chef's Cut Pizzeria,chefscutpizza.com,yes,yes,yes
+rest_107,Mi Mexico Lindo,mimexicolindotaco.com,yes,yes,no
+rest_108,Cheese N Stuff,cheesenstuffdeli.com,yes,no,yes
+rest_109,Square Lotus,squarelotus.com,no,no,no
+rest_111,Cebu Bar & Bistro,cebubrooklyn.com,yes,no,yes
+rest_112,East Coast Pizza,eastcoastpizza.com,yes,yes,yes
+rest_113,Pappardella,pappardella.com,unknown,unknown,unknown
+rest_114,Mario's Pizza Cafe,mariosallentown.com,yes,yes,yes
+rest_115,Poor Boy Restaurant,poorboy-restaurant.com,unknown,unknown,unknown
+rest_116,Eastern Chinese Restaurant,easternchinesecuisine.com,yes,yes,no
+rest_117,Soba Sushi and Noodles,sobaweaverville.com,yes,no,no
+rest_118,LA Lasagna Co,lalasagnacompany.com,yes,yes,no
+rest_119,La Cocina,lacocinarestaurant.com,no,yes,yes
+rest_120,Mt. Everest India's Cuisine,mteverestcuisine.com,yes,yes,yes
+rest_121,Little Tibet,littletibetmadison.com,yes,yes,no
+rest_122,De Islands,deislands.com,no,yes,yes
+rest_123,Ichi 18 Teriyaki,ichi18teriyaki.com,unknown,unknown,unknown
+rest_124,Kin Len Thai Night Bites,kin-len.com,yes,no,yes
+rest_125,Ayawaska Petaluma,ayawaskasf.com,yes,no,no
+rest_126,Pizza Delicious,pizzadelicious.com,yes,yes,yes
+rest_127,Aticha Thai Cuisine,atichathai.com,unknown,unknown,unknown
+rest_128,India's House,indiashousecomo.com,yes,yes,no
+rest_129,Chef's Cut Pizzeria,chefscutpizza.com,yes,yes,yes
+rest_130,Shorty's Diner,shortysdinerva.com,no,no,no
+rest_131,Terror Tacos,terrortacos.com,yes,no,no
+rest_132,Ray's Pizza,rayspizzainc.com,no,no,no
+rest_133,River Street Grill,riverstreetgrill.com,yes,yes,yes
+rest_134,Singha Thai Cuisine,singhathaimoab.com,yes,no,no
+rest_135,Spud Ranch,spudranch.com,yes,yes,no
+rest_137,Costa Pacifica,costapacificausa.com,unknown,unknown,unknown
+rest_138,Yume Japanese Cuisine,yumelodi.com,no,no,yes
+rest_139,La Cosina Mexicana,lacosinamexicanarestaurant.com,no,no,no
+rest_140,Iacono's Pizza & Restaurant,iaconos.com,unknown,unknown,unknown
+rest_141,Roma Pizza,romablacksburg.com,no,no,no
+rest_142,Sazon Latino & Catering,sazonlatinorestaurante.com,yes,no,yes
+rest_143,Sal's Italian Ristorante and Pizzeria,salspizzaexton.com,yes,no,no
+rest_144,Los Portales,mvlosportales.com,unknown,unknown,unknown
+rest_145,Tiki Taco,itstikitimeyall.com,no,no,no
+rest_146,Rakuten Ramen,rakutenramen.com,unknown,unknown,unknown
+rest_147,Tere's Mexican Grill,teresmexicangrill.com,yes,no,yes
+rest_148,SoupFarm,soupfarmtogo.com,yes,no,yes
+rest_149,Oco Time,ocotime.com,no,no,no
+rest_150,Hector's Mariscos,hectorsmariscos.com,yes,yes,no

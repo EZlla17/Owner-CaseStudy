@@ -1,0 +1,342 @@
+{
+  "kpis": {
+    "transcriptsAnalyzed": 150,
+    "demoBookedRate": 34.0,
+    "demoBookedCount": 51
+  },
+  "charts": {
+    "repTenureOutcome": [
+      {
+        "name": "mid",
+        "calls": 64,
+        "successRate": 32.8
+      },
+      {
+        "name": "senior",
+        "calls": 50,
+        "successRate": 38.0
+      },
+      {
+        "name": "new",
+        "calls": 36,
+        "successRate": 30.6
+      }
+    ],
+    "restaurantTypeOutcome": [
+      {
+        "name": "full_service",
+        "calls": 127,
+        "successRate": 29.1
+      },
+      {
+        "name": "quick_service",
+        "calls": 10,
+        "successRate": 50.0
+      },
+      {
+        "name": "unknown",
+        "calls": 10,
+        "successRate": 70.0
+      }
+    ],
+    "cuisineTypeOutcome": [
+      {
+        "name": "unknown",
+        "calls": 49,
+        "successRate": 24.5
+      },
+      {
+        "name": "American",
+        "calls": 25,
+        "successRate": 48.0
+      },
+      {
+        "name": "Mexican",
+        "calls": 25,
+        "successRate": 40.0
+      },
+      {
+        "name": "Italian",
+        "calls": 18,
+        "successRate": 16.7
+      },
+      {
+        "name": "Indian",
+        "calls": 7,
+        "successRate": 57.1
+      },
+      {
+        "name": "Chinese",
+        "calls": 4,
+        "successRate": 50.0
+      },
+      {
+        "name": "Southern",
+        "calls": 4,
+        "successRate": 75.0
+      },
+      {
+        "name": "Mediterranean",
+        "calls": 3,
+        "successRate": 66.7
+      }
+    ]
+  },
+  "situations": [
+    {
+      "clusterId": 3,
+      "name": "Prospect unavailable or uncertain about timing",
+      "count": 87,
+      "proceedRate": 58.6,
+      "suggestedStrategies": [
+        {
+          "strategy": "Respectful reschedule and continuity building",
+          "count": 45,
+          "proceedRate": 80.0
+        }
+      ],
+      "strategiesToAvoid": [
+        {
+          "strategy": "Polite deferral and contact confirmation",
+          "count": 42,
+          "proceedRate": 35.7
+        }
+      ]
+    },
+    {
+      "clusterId": 1,
+      "name": "Low prospect engagement or interest",
+      "count": 61,
+      "proceedRate": 37.7,
+      "suggestedStrategies": [],
+      "strategiesToAvoid": [
+        {
+          "strategy": "Reengaging through relevance building and social proof",
+          "count": 22,
+          "proceedRate": 36.4
+        },
+        {
+          "strategy": "Maintaining engagement through reassurance and polite disengagement strategies",
+          "count": 39,
+          "proceedRate": 38.5
+        }
+      ]
+    },
+    {
+      "clusterId": 5,
+      "name": "Prospect confusion about caller identity and purpose",
+      "count": 51,
+      "proceedRate": 84.3,
+      "suggestedStrategies": [
+        {
+          "strategy": "Reestablishing identity and credibility through context reminders and local proof",
+          "count": 24,
+          "proceedRate": 87.5
+        },
+        {
+          "strategy": "Identity and purpose clarification with polite verification and low-pressure follow-up",
+          "count": 27,
+          "proceedRate": 81.5
+        }
+      ],
+      "strategiesToAvoid": []
+    },
+    {
+      "clusterId": 6,
+      "name": "Prospect not ready to change systems",
+      "count": 51,
+      "proceedRate": 56.9,
+      "suggestedStrategies": [
+        {
+          "strategy": "Reframing system change as low‑risk visibility and SEO improvement opportunity",
+          "count": 13,
+          "proceedRate": 84.6
+        }
+      ],
+      "strategiesToAvoid": [
+        {
+          "strategy": "Empathetic reassurance with flexible next‑step positioning",
+          "count": 38,
+          "proceedRate": 47.4
+        }
+      ]
+    },
+    {
+      "clusterId": 8,
+      "name": "Scheduling or demo confirmation challenges",
+      "count": 46,
+      "proceedRate": 54.4,
+      "suggestedStrategies": [
+        {
+          "strategy": "Adaptive demo setup and tech troubleshooting",
+          "count": 2,
+          "proceedRate": 100.0
+        },
+        {
+          "strategy": "Collaborative scheduling and confirmation alignment",
+          "count": 13,
+          "proceedRate": 92.3
+        },
+        {
+          "strategy": "Value-focused flexible confirmation and reframing",
+          "count": 5,
+          "proceedRate": 60.0
+        }
+      ],
+      "strategiesToAvoid": [
+        {
+          "strategy": "Flexible reassurance and value reframing",
+          "count": 7,
+          "proceedRate": 28.6
+        },
+        {
+          "strategy": "Empathetic flexible rescheduling and follow‑up maintenance",
+          "count": 19,
+          "proceedRate": 31.6
+        }
+      ]
+    },
+    {
+      "clusterId": 4,
+      "name": "Already satisfied or not ready for new online ordering solutions",
+      "count": 44,
+      "proceedRate": 59.1,
+      "suggestedStrategies": [
+        {
+          "strategy": "Empathetic validation and consultative repositioning",
+          "count": 12,
+          "proceedRate": 83.3
+        },
+        {
+          "strategy": "Consultative reframing toward SEO value and growth opportunities",
+          "count": 8,
+          "proceedRate": 62.5
+        },
+        {
+          "strategy": "Reframing satisfaction into value gap through zero‑commission differentiation",
+          "count": 8,
+          "proceedRate": 62.5
+        },
+        {
+          "strategy": "Reframing satisfaction with social proof and commission savings",
+          "count": 10,
+          "proceedRate": 60.0
+        }
+      ],
+      "strategiesToAvoid": [
+        {
+          "strategy": "Acknowledges satisfaction then probes for growth or integration opportunities",
+          "count": 6,
+          "proceedRate": 0.0
+        }
+      ]
+    },
+    {
+      "clusterId": 9,
+      "name": "Speaking with non‑owner or unavailable decision‑maker",
+      "count": 42,
+      "proceedRate": 78.6,
+      "suggestedStrategies": [
+        {
+          "strategy": "Decision‑maker identification and next‑step coordination",
+          "count": 9,
+          "proceedRate": 100.0
+        },
+        {
+          "strategy": "Collaborative qualification and value alignment",
+          "count": 8,
+          "proceedRate": 87.5
+        },
+        {
+          "strategy": "Decision‑maker redirection and contact confirmation",
+          "count": 6,
+          "proceedRate": 83.3
+        },
+        {
+          "strategy": "Empathize validate and redirect to relevance and value",
+          "count": 5,
+          "proceedRate": 80.0
+        },
+        {
+          "strategy": "Empathetic rapport maintenance with limited decision access",
+          "count": 14,
+          "proceedRate": 57.1
+        }
+      ],
+      "strategiesToAvoid": []
+    },
+    {
+      "clusterId": 0,
+      "name": "Limited capacity or no interest in online ordering",
+      "count": 36,
+      "proceedRate": 41.7,
+      "suggestedStrategies": [
+        {
+          "strategy": "Empathetic Reframe and Flexible Solution Exploration",
+          "count": 17,
+          "proceedRate": 58.8
+        }
+      ],
+      "strategiesToAvoid": [
+        {
+          "strategy": "Validating without value reframing",
+          "count": 19,
+          "proceedRate": 26.3
+        }
+      ]
+    },
+    {
+      "clusterId": 7,
+      "name": "Prospect confusion or lack of awareness",
+      "count": 27,
+      "proceedRate": 74.1,
+      "suggestedStrategies": [
+        {
+          "strategy": "Clarifying and reframing to build understanding and trust",
+          "count": 8,
+          "proceedRate": 87.5
+        },
+        {
+          "strategy": "Reestablishing context and guiding confused prospects toward clarity and next steps",
+          "count": 19,
+          "proceedRate": 68.4
+        }
+      ],
+      "strategiesToAvoid": []
+    },
+    {
+      "clusterId": 2,
+      "name": "Pricing questions and cost concerns",
+      "count": 19,
+      "proceedRate": 79.0,
+      "suggestedStrategies": [
+        {
+          "strategy": "Building value through transparent tiered pricing guidance",
+          "count": 3,
+          "proceedRate": 100.0
+        },
+        {
+          "strategy": "Positioning transparent pricing and value alignment",
+          "count": 5,
+          "proceedRate": 80.0
+        },
+        {
+          "strategy": "Reframing pricing concerns into a fit-focused next step",
+          "count": 5,
+          "proceedRate": 80.0
+        },
+        {
+          "strategy": "Building value and reducing risk through transparent pricing clarification",
+          "count": 3,
+          "proceedRate": 66.7
+        },
+        {
+          "strategy": "Partial value alignment without clear differentiation",
+          "count": 3,
+          "proceedRate": 66.7
+        }
+      ],
+      "strategiesToAvoid": []
+    }
+  ]
+}
