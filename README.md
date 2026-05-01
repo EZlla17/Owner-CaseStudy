@@ -6,7 +6,7 @@ This project analyzes restaurant sales-call data and restaurant web/search signa
 
 You can access the deployed app here:
 
-- Deployed app: `https://<your-deployed-link>`
+- Deployed app: `https://owner-casestudy.vercel.app/`
 
 ## Project Structure
 
