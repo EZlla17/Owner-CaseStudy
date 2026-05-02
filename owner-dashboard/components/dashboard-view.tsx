@@ -497,8 +497,8 @@ export function DashboardView({
           </div>
           ) : (
           <div className="h-full">
-            <div className="grid h-full min-h-0 gap-7 xl:grid-cols-[0.92fr_1.46fr]">
-              <section className="h-full min-h-0 pb-1">
+            <div className="grid h-full min-h-0 gap-7 xl:grid-cols-[36rem_minmax(0,1fr)]">
+              <section className="h-full min-h-0 min-w-0 pb-1">
                 <div className="flex h-full min-h-0 flex-col bg-transparent">
                   <div className="min-h-0 flex flex-1 flex-col pt-0">
                     <div className="mb-4 space-y-2">
@@ -577,13 +577,15 @@ export function DashboardView({
                             }`}
                             onClick={() => setSelectedRestaurantId(restaurant.id)}
                           >
-                            <div className="flex items-center justify-between gap-3">
-                              <div className="min-w-0">
+                            <div className="flex items-center gap-3">
+                              <div className="min-w-0 flex-1">
                                 <p className="truncate text-[14px] font-medium text-slate-800">
                                   {restaurant.name}
                                 </p>
-                                <div className="mt-0.5 flex items-center gap-3 text-[11px] text-slate-600">
-                                  <p className="truncate">{restaurant.location || "Location unavailable"}</p>
+                                <div className="mt-0.5 flex min-w-0 items-center gap-3 text-[11px] text-slate-600">
+                                  <p className="min-w-0 truncate">
+                                    {restaurant.location || "Location unavailable"}
+                                  </p>
                                   <p className="shrink-0 font-medium text-slate-500">
                                     Rating:{" "}
                                     <span className="text-[#00842A]">
@@ -592,7 +594,7 @@ export function DashboardView({
                                   </p>
                                 </div>
                               </div>
-                              <div className="shrink-0 self-center text-right">
+                              <div className="w-16 shrink-0 self-center text-right sm:w-[4.5rem]">
                                 <p className="text-[10px] tracking-[0.12em] text-slate-500 uppercase">
                                   Fit Score
                                 </p>
@@ -613,7 +615,7 @@ export function DashboardView({
                   </div>
                 </div>
               </section>
-              <section className="h-full min-h-0 pb-1">
+              <section className="h-full min-h-0 min-w-0 pb-1">
                 <Card className="flex h-full min-h-0 flex-col bg-white shadow-sm ring-1 ring-slate-200">
                   <CardHeader className="pb-0" />
                   <CardContent className="hide-scrollbar min-h-0 flex flex-1 flex-col gap-4 overflow-y-auto px-7 pt-0 md:px-8">
